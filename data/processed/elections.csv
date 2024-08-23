@@ -1,0 +1,640 @@
+,Cand_Name,Cand_Id,Cand_Party_Affiliation,Cand_Office_St,Total_Receipt,Candidate,District,Office Type,Won Primary,Election Race,Num_Candidates,Receipts_Sum,Receipts_Prop
+0,"ABEL, KEVIN",H8GA06377,DEM,GA,898580.07,Kevin Abel,U.S. House Georgia District 6,Representative,0.0,"('U.S. House Georgia District 6', 'Representative')",3,1604455.5799999998,0.5600529433167605
+1,"ABENTROTH, TIFFANY",H8ND00120,REP,ND,0.0,Tiffany Abentroth,U.S. House North Dakota At-large District,Representative,0.0,"('U.S. House North Dakota At-large District', 'Representative')",5,2970728.85,0.0
+2,"ACKISON, MELISSA",S8OH00094,REP,OH,38378.0,Melissa Ackison,U.S. Senate Ohio,Senator,0.0,"('U.S. Senate Ohio', 'Senator')",2,1144754.5,0.03352509206122361
+3,"ADADI, ELIZABETH",H8FL27219,REP,FL,27268.24,Elizabeth Adadi,U.S. House Florida District 27,Representative,0.0,"('U.S. House Florida District 27', 'Representative')",7,3451467.7,0.007900476658089543
+4,"ADAMS, JOHN",H0OH15099,REP,OH,0.0,John Adams,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.0
+6,"ALBERT, DAN",H8SC04425,REP,SC,0.0,Dan Albert,U.S. House South Carolina District 4,Representative,0.0,"('U.S. House South Carolina District 4', 'Representative')",6,616503.09,0.0
+7,"ALBERTSON, ED",H6OH12127,DEM,OH,27509.82,Ed Albertson,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.003778462837915561
+8,"ALBERTSON, ED",H6OH12127,DEM,OH,27509.82,Ed Albertson,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.003778462837915561
+9,"ALLEN, CHAD",H8AZ08141,REP,AZ,33011.58,Chad Allen,U.S. House Arizona District 8,Representative,0.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.004342476311310784
+10,"ALLEN, KATHLEEN",H8GA07144,DEM,GA,96833.08,Kathleen Allen,U.S. House Georgia District 7,Representative,0.0,"('U.S. House Georgia District 7', 'Representative')",5,5103604.22,0.018973469694325163
+11,"ALLISON, ROGER",H8NC01104,REP,NC,30384.46,Roger Allison,U.S. House North Carolina District 1,Representative,1.0,"('U.S. House North Carolina District 1', 'Representative')",1,30384.46,1.0
+12,"ALLMAN, MICHAEL",H8CA52136,REP,CA,415109.45,Michael Allman,U.S. House California District 52,Representative,0.0,"('U.S. House California District 52', 'Representative')",3,1041020.89,0.3987522767194422
+13,"ALLRED, COLIN",H8TX32098,DEM,TX,5972679.56,Colin Allred,U.S. House Texas District 32,Representative,1.0,"('U.S. House Texas District 32', 'Representative')",4,6811149.959999999,0.8768973807765056
+14,"AMJAD, AYNE",H8WV03071,REP,WV,18650.0,Ayne Amjad,U.S. House West Virginia District 3,Representative,0.0,"('U.S. House West Virginia District 3', 'Representative')",4,201678.56,0.09247388517649074
+15,"ANDERSON, BOB",S8MN00594,REP,MN,9800.0,Bob Anderson,U.S. Senate Minnesota,Senator,0.0,"('U.S. Senate Minnesota', 'Senator')",4,4707609.09,0.0020817361451734304
+16,"ANDERSON, MERRILL",S8MN00644,REP,MN,0.0,Merrill Anderson,U.S. Senate Minnesota,Senator,0.0,"('U.S. Senate Minnesota', 'Senator')",4,4707609.09,0.0
+17,"ANDERSON, RAE HART",S8MN00677,REP,MN,0.0,Rae Hart Anderson,U.S. Senate Minnesota,Senator,0.0,"('U.S. Senate Minnesota', 'Senator')",4,4707609.09,0.0
+18,"ANDREI, LINDA",H8NY23225,DEM,NY,283984.38,Linda Andrei,U.S. House New York District 23,Representative,0.0,"('U.S. House New York District 23', 'Representative')",3,2180511.32,0.1302375169508407
+21,"ARELLANO, SERGIO",H8AZ03142,REP,AZ,40346.71,Sergio Arellano,U.S. House Arizona District 3,Representative,0.0,"('U.S. House Arizona District 3', 'Representative')",2,53434.99,0.7550616178649983
+22,"ARMSTRONG, KELLY",H8ND00096,REP,ND,1769588.98,Kelly Armstrong,U.S. House North Dakota At-large District,Representative,1.0,"('U.S. House North Dakota At-large District', 'Representative')",5,2970728.85,0.5956750243294672
+23,"ARORA, HARRY",H8CT04214,REP,CT,754776.65,Harry Arora,U.S. House Connecticut District 4,Representative,1.0,"('U.S. House Connecticut District 4', 'Representative')",1,754776.65,1.0
+24,"ARPAIO, JOE",S8AZ00247,REP,AZ,1455917.62,Joe Arpaio,U.S. Senate Arizona,Senator,0.0,"('U.S. Senate Arizona', 'Senator')",2,4829192.9,0.3014825976406948
+25,"ASHFORD, BRAD",H4NE02054,DEM,NE,640016.12,Brad Ashford,U.S. House Nebraska District 2,Representative,0.0,"('U.S. House Nebraska District 2', 'Representative')",2,3272738.0300000003,0.19555983831678697
+26,"AXNE, CINDY",H8IA03124,DEM,IA,5243411.69,Cindy Axne,U.S. House Iowa District 3,Representative,1.0,"('U.S. House Iowa District 3', 'Representative')",2,5615689.54,0.9337075443098659
+27,"BACHER, STEVE",H8PA08166,DEM,PA,54625.86,Steve Bacher,U.S. House Pennsylvania District 1,Representative,0.0,"('U.S. House Pennsylvania District 1', 'Representative')",2,556391.87,0.0981787530432463
+28,"BACON, KEVIN",H8OH12222,REP,OH,322796.69,Kevin Bacon,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.04433599701369
+29,"BACON, KEVIN",H8OH12222,REP,OH,322796.69,Kevin Bacon,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.04433599701369
+30,"BALAT, DAVID",H8TX07082,REP,TX,180021.54,David Balat,U.S. House Texas District 2,Representative,0.0,"('U.S. House Texas District 2', 'Representative')",7,3785546.39,0.047554968676529676
+31,"BALDERSON, TROY",H8OH12180,REP,OH,2543070.4,Troy Balderson,U.S. House Ohio District 12,Representative,1.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.34928970820612637
+32,"BALDERSON, TROY",H8OH12180,REP,OH,2543070.4,Troy Balderson,U.S. House Ohio District 12,Representative,1.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.34928970820612637
+33,"BALL, DAN",H8CA36162,REP,CA,19259.0,Dan Ball,U.S. House California District 36,Representative,0.0,"('U.S. House California District 36', 'Representative')",4,878444.34,0.021923984392682182
+35,"BALTER, DANA",H8NY24090,DEM,NY,2735634.41,Dana Balter,U.S. House New York District 24,Representative,1.0,"('U.S. House New York District 24', 'Representative')",2,2917440.85,0.9376829045222974
+36,"BARASH, YONA",H8CA07072,REP,CA,321947.52,Yona Barash,U.S. House California District 7,Representative,0.0,"('U.S. House California District 7', 'Representative')",2,887961.72,0.36256914318333455
+37,"BARLETTA, LOU",S8PA00320,REP,PA,7407078.74,Lou Barletta,U.S. Senate Pennsylvania,Senator,1.0,"('U.S. Senate Pennsylvania', 'Senator')",1,7407078.74,1.0
+38,"BARLOW, DAWN",H8TN06128,DEM,TN,44570.15,Dawn Barlow,U.S. House Tennessee District 6,Representative,1.0,"('U.S. House Tennessee District 6', 'Representative')",4,398608.39999999997,0.11181437721834263
+39,"BARNHART, RACHEL",H8NY25121,DEM,NY,34613.05,Rachel Barnhart,U.S. House New York District 25,Representative,0.0,"('U.S. House New York District 25', 'Representative')",2,111302.89,0.3109806942119832
+40,"BARONESS VON BEHR, IRINA",H8AZ09016,REP,AZ,21989.38,Irina Baroness Von Behr,U.S. House Arizona District 9,Representative,0.0,"('U.S. House Arizona District 9', 'Representative')",1,21989.38,1.0
+41,"BARREIRO, BRUNO",H8FL27037,REP,FL,578578.0,Bruno Barreiro,U.S. House Florida District 27,Representative,0.0,"('U.S. House Florida District 27', 'Representative')",7,3451467.7,0.16763245386882802
+42,"BARRERA, RAUL (ROY)",H6TX27092,DEM,TX,12296.18,Raul (Roy) Barrera,U.S. House Texas District 27,Representative,0.0,"('U.S. House Texas District 27', 'Representative')",8,1671717.96,0.007355415383585399
+43,"BARRINGTON, MARK",H8CO07094,REP,CO,54976.96,Mark Barrington,U.S. House Colorado District 7,Representative,1.0,"('U.S. House Colorado District 7', 'Representative')",1,54976.96,1.0
+44,"BASSILIAN, RON",H8CA37293,REP,CA,10387.55,Ron Bassilian,U.S. House California District 34,Representative,1.0,"('U.S. House California District 34', 'Representative')",1,10387.55,1.0
+45,"BATESON, REGINA",H8CA04194,DEM,CA,804901.59,Regina Bateson,U.S. House California District 4,Representative,0.0,"('U.S. House California District 4', 'Representative')",3,4618138.96,0.1742913318485332
+46,"BAXTER, RALPH",H8WV01067,DEM,WV,652981.25,Ralph Baxter,U.S. House West Virginia District 1,Representative,0.0,"('U.S. House West Virginia District 1', 'Representative')",2,652981.25,1.0
+47,"BEAL, BRENT",H8TX01044,DEM,TX,76235.51,Brent Beal,U.S. House Texas District 1,Representative,0.0,"('U.S. House Texas District 1', 'Representative')",1,76235.51,1.0
+48,"BECK, TOBI",H8IN04124,DEM,IN,120052.37,Tobi Beck,U.S. House Indiana District 4,Representative,1.0,"('U.S. House Indiana District 4', 'Representative')",5,166520.63,0.7209459272403665
+49,"BELL, ADRIENNE",H8TX14120,DEM,TX,211626.33,Adrienne Bell,U.S. House Texas District 14,Representative,1.0,"('U.S. House Texas District 14', 'Representative')",1,211626.33,1.0
+50,"BELL, BARRY",H8SC04292,REP,SC,5620.41,Barry Bell,U.S. House South Carolina District 4,Representative,0.0,"('U.S. House South Carolina District 4', 'Representative')",6,616503.09,0.009116596641875712
+51,"BELOIN, GERARD",H2NH02179,REP,NH,0.0,Gerard Beloin,U.S. House New Hampshire District 2,Representative,0.0,"('U.S. House New Hampshire District 2', 'Representative')",4,1110510.85,0.0
+52,"BENNO, AMEER",H8NY04084,REP,NY,50169.0,Ameer Benno,U.S. House New York District 4,Representative,1.0,"('U.S. House New York District 4', 'Representative')",1,50169.0,1.0
+53,"BENTIVOLIO, KERRY",H2MI11133,REP,MI,37273.54,Kerry Bentivolio,U.S. House Michigan District 11,Representative,0.0,"('U.S. House Michigan District 11', 'Representative')",7,8157890.890000001,0.004569016735157633
+55,"BENTLEY, ROBERT",H8CA36196,REP,CA,110.0,Robert Bentley,U.S. House California District 36,Representative,0.0,"('U.S. House California District 36', 'Representative')",4,878444.34,0.00012522136576120465
+56,"BIGGAN, JOHN",H8TX24111,DEM,TX,86564.64,John Biggan,U.S. House Texas District 24,Representative,0.0,"('U.S. House Texas District 24', 'Representative')",1,86564.64,1.0
+57,"BLANKENBEKER, LYNNE",H8NH02283,REP,NH,134043.56,Lynne Blankenbeker,U.S. House New Hampshire District 2,Representative,0.0,"('U.S. House New Hampshire District 2', 'Representative')",4,1110510.85,0.12070441274842113
+58,"BLANKENSHIP, DON",S8WV00150,CON,WV,4165210.09,Don Blankenship,U.S. Senate West Virginia,Senator,0.0,"('U.S. Senate West Virginia', 'Senator')",2,4165210.09,1.0
+59,"BLIATOUT, BOBBY",H8CA22154,DEM,CA,394178.67,Bobby Bliatout,U.S. House California District 22,Representative,0.0,"('U.S. House California District 22', 'Representative')",2,9628047.68,0.040940664514864555
+60,"BLOOM, STEPHEN",H8PA11061,REP,PA,349627.49,Stephen Bloom,U.S. House Pennsylvania District 13,Representative,0.0,"('U.S. House Pennsylvania District 13', 'Representative')",4,1895910.83,0.1844113575742378
+61,"BLY, RAY",H8MD07042,REP,MD,0.0,Ray Bly,U.S. House Maryland District 7,Representative,0.0,"('U.S. House Maryland District 7', 'Representative')",3,19278.86,0.0
+62,"BOERIO, BIBIANA",H8PA14065,DEM,PA,690533.84,Bibiana Boerio,U.S. House Pennsylvania District 14,Representative,1.0,"('U.S. House Pennsylvania District 14', 'Representative')",4,3068491.45,0.22504017079793392
+63,"BOICE, COURT",H8OR04142,REP,OR,0.0,Court Boice,U.S. House Oregon District 4,Representative,0.0,"('U.S. House Oregon District 4', 'Representative')",3,14623.38,0.0
+64,"BONHAM, PAUL",H8NC12101,REP,NC,9034.0,Paul Bonham,U.S. House North Carolina District 12,Representative,0.0,"('U.S. House North Carolina District 12', 'Representative')",3,13304.0,0.6790438965724594
+65,"BOSER, SUSAN",H8PA09065,DEM,PA,144712.13,Susan Boser,U.S. House Pennsylvania District 15,Representative,1.0,"('U.S. House Pennsylvania District 15', 'Representative')",2,144712.13,1.0
+66,"BOURDEAUX, CAROLYN",H8GA07201,DEM,GA,2943199.78,Carolyn Bourdeaux,U.S. House Georgia District 7,Representative,1.0,"('U.S. House Georgia District 7', 'Representative')",5,5103604.22,0.5766904432883316
+67,"BRAKEY, ERIC",S8ME00130,REP,ME,962794.83,Eric Brakey,U.S. Senate Maine,Senator,1.0,"('U.S. Senate Maine', 'Senator')",1,962794.83,1.0
+69,"BRAUN, MIKE",S8IN00171,REP,IN,19759939.59,Mike Braun,U.S. Senate Indiana,Senator,1.0,"('U.S. Senate Indiana', 'Senator')",1,19759939.59,1.0
+70,"BRIGHT, LEE",H8SC04342,REP,SC,342037.73,Lee Bright,U.S. House South Carolina District 4,Representative,0.0,"('U.S. House South Carolina District 4', 'Representative')",6,616503.09,0.5548029451077041
+71,"BRINDISI, ANTHONY",H8NY22151,DEM,NY,4641923.14,Anthony Brindisi,U.S. House New York District 22,Representative,1.0,"('U.S. House New York District 22', 'Representative')",1,4641923.14,1.0
+72,"BRISCOE, JOHN",H8CA47078,REP,CA,54713.56,John Briscoe,U.S. House California District 47,Representative,1.0,"('U.S. House California District 47', 'Representative')",2,80393.95999999999,0.6805680426738526
+73,"BROLLEY, MATT",H8IL14166,DEM,IL,165970.12,Matt Brolley,U.S. House Illinois District 14,Representative,0.0,"('U.S. House Illinois District 14', 'Representative')",6,279346.48,0.5941371446670816
+74,"BROOK, MARTIN",H8MI09100,DEM,MI,36287.65,Martin Brook,U.S. House Michigan District 9,Representative,0.0,"('U.S. House Michigan District 9', 'Representative')",3,2931987.88,0.012376466576662658
+75,"BROWN, LISA",H8WA05193,DEM,WA,5763983.16,Lisa Brown,U.S. House Washington District 5,Representative,1.0,"('U.S. House Washington District 5', 'Representative')",1,5763983.16,1.0
+76,"BROWN, STEVE",H4NV04058,LIB,NV,0.0,Steve Brown,U.S. House Texas District 22,Representative,0.0,"('U.S. House Texas District 22', 'Representative')",5,1807126.53,0.0
+77,"BROWNING, DEAN",H8PA15260,REP,PA,226600.0,Dean Browning,U.S. House Pennsylvania District 7,Representative,0.0,"('U.S. House Pennsylvania District 7', 'Representative')",5,4261507.57,0.05317367065007935
+78,"BRUMBLES, JOSEPH",H8WA10045,REP,WA,5243.0,Joseph Brumbles,U.S. House Washington District 10,Representative,1.0,"('U.S. House Washington District 10', 'Representative')",1,5243.0,1.0
+79,"BRUUN, BECH",H8TX27072,REP,TX,662739.22,Bech Bruun,U.S. House Texas District 27,Representative,0.0,"('U.S. House Texas District 27', 'Representative')",8,1671717.96,0.3964420050855947
+80,"BURCHETT, TIM",H8TN02119,REP,TN,1094057.68,Tim Burchett,U.S. House Tennessee District 2,Representative,1.0,"('U.S. House Tennessee District 2', 'Representative')",4,1943755.4899999998,0.5628576668354517
+81,"BURNETTE, ERIC",H8OR02153,DEM,OR,75202.0,Eric Burnette,U.S. House Oregon District 2,Representative,0.0,"('U.S. House Oregon District 2', 'Representative')",5,270054.13,0.27847009782816506
+82,"BURNS, MARK",H8SC04284,REP,SC,136405.05,Mark Burns,U.S. House South Carolina District 4,Representative,0.0,"('U.S. House South Carolina District 4', 'Representative')",6,616503.09,0.22125606864354888
+83,"BUTNER, JOSH",H8CA50106,DEM,CA,758932.09,Josh Butner,U.S. House California District 50,Representative,0.0,"('U.S. House California District 50', 'Representative')",2,4838089.7,0.15686606430633146
+84,"BYRNE, MICHAEL",H8OR02195,DEM,OR,0.0,Michael Byrne,U.S. House Oregon District 2,Representative,0.0,"('U.S. House Oregon District 2', 'Representative')",5,270054.13,0.0
+85,"CAFORIO, BRYAN",H6CA25177,DEM,CA,1217418.32,Bryan Caforio,U.S. House California District 25,Representative,0.0,"('U.S. House California District 25', 'Representative')",3,1720933.32,0.7074174843683078
+86,"CAIOZZO, SALVATORE",H6RI02284,REP,RI,4960.0,Salvatore Caiozzo,U.S. House Rhode Island District 2,Representative,1.0,"('U.S. House Rhode Island District 2', 'Representative')",1,4960.0,1.0
+87,"CALLIS, MICHAEL",H6NH01263,REP,NH,0.0,Michael Callis,U.S. House New Hampshire District 1,Representative,0.0,"('U.S. House New Hampshire District 1', 'Representative')",5,2480153.7399999998,0.0
+89,"CAMPA-NAJJAR, AMMAR",H8CA50098,DEM,CA,4079157.61,Ammar Campa-Najjar,U.S. House California District 50,Representative,1.0,"('U.S. House California District 50', 'Representative')",2,4838089.7,0.8431339356936685
+91,"CAMPBELL, TOM",H8ND00104,REP,ND,1201139.87,Tom Campbell,U.S. House North Dakota At-large District,Representative,0.0,"('U.S. House North Dakota At-large District', 'Representative')",5,2970728.85,0.4043249756705329
+92,"CAMPBELL, TOM",S8ND00104,REP,ND,0.0,Tom Campbell,U.S. House North Dakota At-large District,Representative,0.0,"('U.S. House North Dakota At-large District', 'Representative')",5,2970728.85,0.0
+93,"CANDLER, ANDREW",H8MN01345,REP,MN,0.0,Andrew Candler,U.S. House Minnesota District 1,Representative,0.0,"('U.S. House Minnesota District 1', 'Representative')",3,106892.27,0.0
+94,"CARTER, PATRICK",H8NV03259,REP,NV,9538.83,Patrick Carter,U.S. House Nevada District 3,Representative,0.0,"('U.S. House Nevada District 3', 'Representative')",10,5667748.680000001,0.0016830015829142231
+95,"CASTEN, SEAN",H8IL06139,DEM,IL,6439711.53,Sean Casten,U.S. House Illinois District 6,Representative,1.0,"('U.S. House Illinois District 6', 'Representative')",6,8244590.320000001,0.781083265517552
+96,"CHAFFEE, CHRIS",S6MD03557,REP,MD,0.0,Chris Chaffee,U.S. Senate Maryland,Senator,0.0,"('U.S. Senate Maryland', 'Senator')",6,41556.17,0.0
+97,"CHENEY, CAROLE",H8IL06147,DEM,IL,350684.28,Carole Cheney,U.S. House Illinois District 6,Representative,0.0,"('U.S. House Illinois District 6', 'Representative')",6,8244590.320000001,0.04253507650335256
+98,"CHIRINO, ANGIE",H8FL27177,REP,FL,57344.58,Angie Chirino,U.S. House Florida District 27,Representative,0.0,"('U.S. House Florida District 27', 'Representative')",7,3451467.7,0.016614549224957254
+99,"CLARK, DAVID",H8PA07267,DEM,PA,0.0,David Clark,U.S. House Pennsylvania District 7,Representative,0.0,"('U.S. House Pennsylvania District 7', 'Representative')",5,4261507.57,0.0
+100,"CLARK, MIKE",H6TX31045,DEM,TX,17365.81,Mike Clark,U.S. House Texas District 31,Representative,0.0,"('U.S. House Texas District 31', 'Representative')",1,17365.81,1.0
+101,"CLARKSON, GAVIN",H8NM02222,REP,NM,182336.0,Gavin Clarkson,U.S. House New Mexico District 2,Representative,0.0,"('U.S. House New Mexico District 2', 'Representative')",4,5891239.15,0.030950364661397254
+102,"CLIFFORD, DAVID",H8CA47060,REP,CA,25680.4,David Clifford,U.S. House California District 47,Representative,0.0,"('U.S. House California District 47', 'Representative')",2,80393.95999999999,0.31943195732614743
+103,"CLOUD, MICHAEL",H8TX27049,REP,TX,746292.27,Michael Cloud,U.S. House Texas District 27,Representative,1.0,"('U.S. House Texas District 27', 'Representative')",8,1671717.96,0.44642235583806256
+104,"COBERT, MITCHELL",H8NJ11191,DEM,NJ,132391.7,Mitchell Cobert,U.S. House New Jersey District 11,Representative,0.0,"('U.S. House New Jersey District 11', 'Representative')",6,2942044.29,0.04499990039239009
+105,"COCKBURN, LESLIE",H8VA05155,DEM,VA,3538321.62,Leslie Cockburn,U.S. House Virginia District 5,Representative,1.0,"('U.S. House Virginia District 5', 'Representative')",1,3538321.62,1.0
+106,"COHEN, LAWRENCE",H8OH12255,REP,OH,0.0,Lawrence Cohen,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.0
+107,"COHEN, LAWRENCE",H8OH12255,REP,OH,0.0,Lawrence Cohen,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.0
+108,"COKER, ADAM",H6NC02130,DEM,NC,71637.95,Adam Coker,U.S. House North Carolina District 13,Representative,0.0,"('U.S. House North Carolina District 13', 'Representative')",2,4283327.41,0.016724836358003273
+109,"COLEMAN, ANDY",H8OK01124,REP,OK,412018.14,Andy Coleman,U.S. House Oklahoma District 1,Representative,0.0,"('U.S. House Oklahoma District 1', 'Representative')",7,1488296.22,0.27683880027592894
+110,"COLEMAN, LINDA",H8NC02110,DEM,NC,1727747.61,Linda Coleman,U.S. House North Carolina District 2,Representative,1.0,"('U.S. House North Carolina District 2', 'Representative')",3,2383565.77,0.7248583746862585
+111,"COLLIER, ERIN",H8NY19256,DEM,NY,211153.96,Erin Collier,U.S. House New York District 19,Representative,0.0,"('U.S. House New York District 19', 'Representative')",3,11213408.77,0.018830488063978783
+112,"COLVIN, JESSE",H8MD01193,DEM,MD,1876162.65,Jesse Colvin,U.S. House Maryland District 1,Representative,1.0,"('U.S. House Maryland District 1', 'Representative')",2,1876162.65,1.0
+113,"COMBEE, NEIL",H8FL15222,REP,FL,217665.0,Neil Combee,U.S. House Florida District 15,Representative,0.0,"('U.S. House Florida District 15', 'Representative')",3,316694.25,0.6873032901607781
+114,"CONYERS, IAN",H8MI13284,DEM,MI,212777.5,Ian Conyers,U.S. House Michigan District 13,Representative,0.0,"('U.S. House Michigan District 13', 'Representative')",7,4298396.4399999995,0.049501599717498374
+115,"CONYERS, IAN",H8MI13284,DEM,MI,212777.5,Ian Conyers,U.S. House Michigan District 13,Representative,0.0,"('U.S. House Michigan District 13', 'Representative')",7,4298396.4399999995,0.049501599717498374
+116,"COOPER, DAVE",H8GA09066,DEM,GA,39593.31,Dave Cooper,U.S. House Georgia District 9,Representative,0.0,"('U.S. House Georgia District 9', 'Representative')",1,39593.31,1.0
+117,"CORBIN-JOHNSON, SHAVONNIA",H8PA04108,DEM,PA,245856.38,Shavonnia Corbin-Johnson,U.S. House Pennsylvania District 10,Representative,0.0,"('U.S. House Pennsylvania District 10', 'Representative')",2,2465412.29,0.09972221725235254
+119,"CRENSHAW, DANIEL",H8TX02166,UNK,TX,1865423.71,Daniel Crenshaw,U.S. House Texas District 2,Representative,1.0,"('U.S. House Texas District 2', 'Representative')",7,3785546.39,0.4927752873212049
+120,"CROCHETIERE, BRUCE",H8NH01277,REP,NH,329036.95,Bruce Crochetiere,U.S. House New Hampshire District 1,Representative,0.0,"('U.S. House New Hampshire District 1', 'Representative')",5,2480153.7399999998,0.13266796517219132
+121,"CROW, JASON",H8CO06229,DEM,CO,5712546.74,Jason Crow,U.S. House Colorado District 6,Representative,1.0,"('U.S. House Colorado District 6', 'Representative')",2,6064348.69,0.9419885023135106
+122,"CRUZ, ERIN",S8CA00440,REP,CA,32488.0,Erin Cruz,U.S. Senate California,Senator,0.0,"('U.S. Senate California', 'Senator')",4,55771.0,0.5825249681734235
+123,"CUNNINGHAM, JOE",H8SC01116,DEM,SC,2468862.54,Joe Cunningham,U.S. House South Carolina District 1,Representative,1.0,"('U.S. House South Carolina District 1', 'Representative')",2,2484412.54,0.9937409750797668
+124,"CURTIS , RON",S8HI00210,REP,HI,19925.0,Ron Curtis,U.S. Senate Hawaii,Senator,1.0,"('U.S. Senate Hawaii', 'Senator')",1,19925.0,1.0
+125,"D'ALESSANDRO, PETE",H8IA03173,DEM,IA,372277.85,Pete D'Alessandro,U.S. House Iowa District 3,Representative,0.0,"('U.S. House Iowa District 3', 'Representative')",2,5615689.54,0.06629245569013417
+126,"DADY, SARA",H8IL16120,DEM,IL,382450.38,Sara Dady,U.S. House Illinois District 16,Representative,1.0,"('U.S. House Illinois District 16', 'Representative')",2,395548.38,0.966886477957513
+127,"DAHM, NATHAN",H0OK01089,REP,OK,142317.0,Nathan Dahm,U.S. House Oklahoma District 1,Representative,0.0,"('U.S. House Oklahoma District 1', 'Representative')",7,1488296.22,0.0956241090231352
+128,"DASH, STACEY",H8CA44109,REP,CA,44730.13,Stacey Dash,U.S. House California District 44,Representative,0.0,"('U.S. House California District 44', 'Representative')",2,44730.13,1.0
+129,"DAVID, DAN",H8PA15286,REP,PA,510412.7,Dan David,U.S. House Pennsylvania District 4,Representative,1.0,"('U.S. House Pennsylvania District 4', 'Representative')",2,1942682.3399999999,0.26273605802171446
+130,"DAVID, STEVEN",H8TX08080,DEM,TX,34332.81,Steven David,U.S. House Texas District 8,Representative,1.0,"('U.S. House Texas District 8', 'Representative')",1,34332.81,1.0
+131,"DAVIDS, SHARICE",H8KS03155,DEM,KS,4860761.14,Sharice Davids,U.S. House Kansas District 3,Representative,1.0,"('U.S. House Kansas District 3', 'Representative')",5,7093256.309999999,0.6852651204986558
+132,"DAVIDSON, MARGO",H8PA05287,DEM,PA,62327.3,Margo Davidson,U.S. House Pennsylvania District 5,Representative,0.0,"('U.S. House Pennsylvania District 5', 'Representative')",8,3880740.18,0.016060673250225168
+133,"DAVIS, J. JASON",H8IN07325,REP,IN,0.0,J. Jason Davis,U.S. House Indiana District 7,Representative,0.0,"('U.S. House Indiana District 7', 'Representative')",2,7145.65,0.0
+134,"DAVIS, MELISSA",H8GA07185,DEM,GA,66192.42,Melissa Davis,U.S. House Georgia District 7,Representative,0.0,"('U.S. House Georgia District 7', 'Representative')",5,5103604.22,0.012969740039912421
+135,"DAVIS, PATRICK",H8NM01406,DEM,NM,393987.79,Patrick Davis,U.S. House New Mexico District 1,Representative,0.0,"('U.S. House New Mexico District 1', 'Representative')",5,4358793.38,0.09038918701854136
+136,"DAVIS, RICHMOND",H8MD07083,REP,MD,19278.86,Richmond Davis,U.S. House Maryland District 7,Representative,0.0,"('U.S. House Maryland District 7', 'Representative')",3,19278.86,1.0
+137,"DEAN, MADELEINE",H8PA04116,DEM,PA,1432269.64,Madeleine Dean,U.S. House Pennsylvania District 4,Representative,1.0,"('U.S. House Pennsylvania District 4', 'Representative')",2,1942682.3399999999,0.7372639419782856
+138,"DELGADO, ANTONIO",H8NY19181,DEM,NY,9244751.44,Antonio Delgado,U.S. House New York District 19,Representative,1.0,"('U.S. House New York District 19', 'Representative')",3,11213408.77,0.8244372099172124
+139,"DENNEY, AUDREY",H8CA01257,DEM,CA,1097584.95,Audrey Denney,U.S. House California District 1,Representative,1.0,"('U.S. House California District 1', 'Representative')",2,1114859.95,0.9845047801744067
+140,"DENT, MARK",H8OH16140,DEM,OH,0.0,Mark Dent,U.S. House Ohio District 16,Representative,0.0,"('U.S. House Ohio District 16', 'Representative')",4,938238.0800000001,0.0
+141,"DESAI, CHINTAN",H8AR01029,DEM,AR,137153.22,Chintan Desai,U.S. House Arkansas District 1,Representative,1.0,"('U.S. House Arkansas District 1', 'Representative')",1,137153.22,1.0
+142,"DETERS, BRIAN",H8IL18092,DEM,IL,20583.09,Brian Deters,U.S. House Illinois District 18,Representative,0.0,"('U.S. House Illinois District 18', 'Representative')",3,98894.39,0.20813202852052579
+143,"DIEHL, GEOFF",S8MA00276,REP,MA,3025033.56,Geoff Diehl,U.S. Senate Massachusetts,Senator,1.0,"('U.S. Senate Massachusetts', 'Senator')",2,4646221.140000001,0.6510739521106823
+144,"DIGHTMAN, DOUGLAS",H8WA06100,REP,WA,46610.0,Douglas Dightman,U.S. House Washington District 6,Representative,1.0,"('U.S. House Washington District 6', 'Representative')",1,46610.0,1.0
+145,"DILLEY, BRENDEN",H8AZ08182,REP,AZ,47018.77,Brenden Dilley,U.S. House Arizona District 8,Representative,0.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.006185038550471384
+146,"DILLINGHAM, THOMAS",H8TX06290,REP,TX,0.0,Thomas Dillingham,U.S. House Texas District 6,Representative,0.0,"('U.S. House Texas District 6', 'Representative')",7,61596.0,0.0
+147,"DOLGOS, STEPHEN",H2AZ08151,REP,AZ,0.0,Stephen Dolgos,U.S. House Arizona District 8,Representative,0.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.0
+148,"DONALDSON, SCOTT",H8NC11160,DEM,NC,63006.0,Scott Donaldson,U.S. House North Carolina District 11,Representative,0.0,"('U.S. House North Carolina District 11', 'Representative')",3,314427.19,0.20038343376092888
+149,"DONKERVOET, ALEX",H8TX03164,REP,TX,0.0,Alex Donkervoet,U.S. House Texas District 3,Representative,0.0,"('U.S. House Texas District 3', 'Representative')",4,61895.74,0.0
+151,"DOTY, SALLY",H8MS03133,REP,MS,122192.2,Sally Doty,U.S. House Mississippi District 3,Representative,0.0,"('U.S. House Mississippi District 3', 'Representative')",2,246202.2,0.49630831893459926
+154,"DOWNING, TROY",S8MT00218,REP,MT,1495357.0,Troy Downing,U.S. Senate Montana,Senator,0.0,"('U.S. Senate Montana', 'Senator')",2,7489379.92,0.19966365920451262
+156,"DRISKELL, GRETCHEN",H6MI07223,DEM,MI,2719885.42,Gretchen Driskell,U.S. House Michigan District 7,Representative,1.0,"('U.S. House Michigan District 7', 'Representative')",2,2771793.38,0.9812727888108312
+157,"DUGDALE, SEAN",H8IN05147,DEM,IN,434.0,Sean Dugdale,U.S. House Indiana District 5,Representative,0.0,"('U.S. House Indiana District 5', 'Representative')",3,6678.35,0.06498611183900214
+158,"DUNKLEY, JONATHAN",H8AR02167,DEM,AR,34466.05,Jonathan Dunkley,U.S. House Arkansas District 2,Representative,0.0,"('U.S. House Arkansas District 2', 'Representative')",1,34466.05,1.0
+159,"DUNN, MORGAN",H8MS03158,REP,MS,124010.0,Morgan Dunn,U.S. House Mississippi District 3,Representative,0.0,"('U.S. House Mississippi District 3', 'Representative')",2,246202.2,0.5036916810654007
+160,"DUTERTE, EDWIN",H8CA43135,REP,CA,18509.76,Edwin Duterte,U.S. House California District 43,Representative,0.0,"('U.S. House California District 43', 'Representative')",2,1191633.31,0.015533100530732896
+161,"EASTMAN, KARA",H8NE02220,DEM,NE,2632721.91,Kara Eastman,U.S. House Nebraska District 2,Representative,1.0,"('U.S. House Nebraska District 2', 'Representative')",2,3272738.0300000003,0.804440161683213
+163,"EDWARDS, EDDIE",H8NH01152,REP,NH,1268155.42,Eddie Edwards,U.S. House New Hampshire District 1,Representative,1.0,"('U.S. House New Hampshire District 1', 'Representative')",5,2480153.7399999998,0.5113212941388061
+164,"EDWARDS, GREG",H8PA15187,DEM,PA,451974.56,Greg Edwards,U.S. House Pennsylvania District 7,Representative,0.0,"('U.S. House Pennsylvania District 7', 'Representative')",5,4261507.57,0.10605978109291496
+165,"EICHHOLZ, RICH",H8MI06148,DEM,MI,196556.31,Rich Eichholz,U.S. House Michigan District 6,Representative,0.0,"('U.S. House Michigan District 6', 'Representative')",3,2493972.48,0.078812541668463
+166,"ELLIS, ROLAND",H8IN04249,DEM,IN,0.0,Roland Ellis,U.S. House Indiana District 4,Representative,0.0,"('U.S. House Indiana District 4', 'Representative')",5,166520.63,0.0
+167,"EMERT, JASON",H8TN02200,REP,TN,487156.68,Jason Emert,U.S. House Tennessee District 2,Representative,0.0,"('U.S. House Tennessee District 2', 'Representative')",4,1943755.4899999998,0.2506265229892676
+168,"EMIG, ZACH",H8NY11071,DEM,NY,49985.9,Zach Emig,U.S. House New York District 11,Representative,0.0,"('U.S. House New York District 11', 'Representative')",4,4847789.35,0.010311070962685291
+169,"ENGLISH, GEORGE",H6MD08333,DEM,MD,0.0,George English,U.S. House Maryland District 6,Representative,0.0,"('U.S. House Maryland District 6', 'Representative')",5,2840832.48,0.0
+170,"EPLEY, JAMES",H8SC04409,REP,SC,107564.9,James Epley,U.S. House South Carolina District 4,Representative,0.0,"('U.S. House South Carolina District 4', 'Representative')",6,616503.09,0.17447584893694532
+171,"ESCOBAR, VERONICA",H8TX16109,DEM,TX,1445479.43,Veronica Escobar,U.S. House Texas District 16,Representative,1.0,"('U.S. House Texas District 16', 'Representative')",4,2549109.5199999996,0.567052697680875
+173,"EVERHARD, JANET",H6OH02292,DEM,OH,57777.75,Janet Everhard,U.S. House Ohio District 2,Representative,0.0,"('U.S. House Ohio District 2', 'Representative')",2,663937.13,0.08702292339035174
+174,"EZE, NNABU",S8MD00351,REP,MD,0.0,Nnabu Eze,U.S. Senate Maryland,Senator,0.0,"('U.S. Senate Maryland', 'Senator')",6,41556.17,0.0
+175,"FAGAN, LINSEY",H8TX26124,DEM,TX,176157.24,Linsey Fagan,U.S. House Texas District 26,Representative,1.0,"('U.S. House Texas District 26', 'Representative')",1,176157.24,1.0
+176,"FARAGGI, ESHEL",H8IN05212,DEM,IN,0.0,Eshel Faraggi,U.S. House Indiana District 5,Representative,0.0,"('U.S. House Indiana District 5', 'Representative')",3,6678.35,0.0
+177,"FAREED, JUSTIN",H4CA24142,REP,CA,1459656.01,Justin Fareed,U.S. House California District 24,Representative,1.0,"('U.S. House California District 24', 'Representative')",1,1459656.01,1.0
+178,"FENENBOCK, DORI",H8TX16083,DEM,TX,1053359.08,Dori Fenenbock,U.S. House Texas District 16,Representative,0.0,"('U.S. House Texas District 16', 'Representative')",4,2549109.5199999996,0.41322629401972505
+179,"FENTY, SHION",H8VA04034,REP,VA,15809.81,Shion Fenty,U.S. House Virginia District 4,Representative,0.0,"('U.S. House Virginia District 4', 'Representative')",1,15809.81,1.0
+181,"FINKENAUER, ABBY",H8IA01094,DEM,IA,4601774.98,Abby Finkenauer,U.S. House Iowa District 1,Representative,1.0,"('U.S. House Iowa District 1', 'Representative')",3,5014217.350000001,0.9177454144463841
+183,"FLORES, SOL",H8IL04159,DEM,IL,341189.07,Sol Flores,U.S. House Illinois District 4,Representative,0.0,"('U.S. House Illinois District 4', 'Representative')",4,1269534.4800000002,0.2687513221381746
+184,"FLYNN, BRIAN",H8NY19173,DEM,NY,1757503.37,Brian Flynn,U.S. House New York District 19,Representative,0.0,"('U.S. House New York District 19', 'Representative')",3,11213408.77,0.1567323020188089
+185,"FLYNN, SEAN",H6CA31134,REP,CA,1363972.31,Sean Flynn,U.S. House California District 31,Representative,1.0,"('U.S. House California District 31', 'Representative')",1,1363972.31,1.0
+186,"FOGARTY, PATRICK",H8NV02111,DEM,NV,169040.0,Patrick Fogarty,U.S. House Nevada District 2,Representative,0.0,"('U.S. House Nevada District 2', 'Representative')",2,206176.46,0.8198802132891408
+187,"FORDE, BRIAN",H8CA45189,DEM,CA,1701475.61,Brian Forde,U.S. House California District 45,Representative,0.0,"('U.S. House California District 45', 'Representative')",2,2356528.2600000002,0.7220263974258471
+188,"FOSTER, STEVEN",H8GA14025,DEM,GA,12736.0,Steven Foster,U.S. House Georgia District 14,Representative,1.0,"('U.S. House Georgia District 14', 'Representative')",1,12736.0,1.0
+189,"FOSTER, VANESSA EDWARDS",H8TX27098,DEM,TX,0.0,Vanessa Edwards Foster,U.S. House Texas District 27,Representative,0.0,"('U.S. House Texas District 27', 'Representative')",8,1671717.96,0.0
+190,"FRANKLIN, GEORGE",H8MI06163,DEM,MI,843741.2,George Franklin,U.S. House Michigan District 6,Representative,0.0,"('U.S. House Michigan District 6', 'Representative')",3,2493972.48,0.3383121533081231
+192,"FRIDAY, STEVEN",H8MI07112,DEM,MI,51907.96,Steven Friday,U.S. House Michigan District 7,Representative,0.0,"('U.S. House Michigan District 7', 'Representative')",2,2771793.38,0.0187272111891688
+193,"FRIEDENBERG, MARC",H8PA05204,DEM,PA,156485.31,Marc Friedenberg,U.S. House Pennsylvania District 12,Representative,1.0,"('U.S. House Pennsylvania District 12', 'Representative')",1,156485.31,1.0
+194,"FULCHER, RUSS",H8ID01124,REP,ID,917403.58,Russ Fulcher,U.S. House Idaho District 1,Representative,1.0,"('U.S. House Idaho District 1', 'Representative')",4,1111129.81,0.8256493271474734
+195,"FULLER, VIRGINIA",H8FL05157,REP,FL,40564.0,Virginia Fuller,U.S. House Florida District 5,Representative,1.0,"('U.S. House Florida District 5', 'Representative')",2,40564.0,1.0
+196,"FULLER, VIRGINIA",S8FL00257,REP,FL,0.0,Virginia Fuller,U.S. House Florida District 5,Representative,1.0,"('U.S. House Florida District 5', 'Representative')",2,40564.0,0.0
+197,"GAGLIARDI, DEBORAH",H8TX06274,REP,TX,0.0,Deborah Gagliardi,U.S. House Texas District 6,Representative,0.0,"('U.S. House Texas District 6', 'Representative')",7,61596.0,0.0
+198,"GAITHER, KEVIN",H8IL15072,DEM,IL,53605.89,Kevin Gaither,U.S. House Illinois District 15,Representative,1.0,"('U.S. House Illinois District 15', 'Representative')",2,79801.63,0.6717392865283578
+199,"GALBRAITH, JOHN MICHAEL",H8OH05150,DEM,OH,212609.78,John Michael Galbraith,U.S. House Ohio District 5,Representative,1.0,"('U.S. House Ohio District 5', 'Representative')",1,212609.78,1.0
+200,"GARCIA, DOMINIQUE",H6TX29056,DEM,TX,0.0,Dominique Garcia,U.S. House Texas District 29,Representative,0.0,"('U.S. House Texas District 29', 'Representative')",4,64005.75,0.0
+201,"GARCIA, JESUS",H8IL04134,DEM,IL,873126.05,Jesus Garcia,U.S. House Illinois District 4,Representative,1.0,"('U.S. House Illinois District 4', 'Representative')",4,1269534.4800000002,0.687752923418039
+202,"GARCIA, ROEL",H8TX29078,DEM,TX,58407.4,Roel Garcia,U.S. House Texas District 29,Representative,0.0,"('U.S. House Texas District 29', 'Representative')",4,64005.75,0.9125336395558212
+203,"GARCIA-URESTE, ALIA",H8TX16125,REP,TX,165.0,Alia Garcia-Ureste,U.S. House Texas District 16,Representative,0.0,"('U.S. House Texas District 16', 'Representative')",4,2549109.5199999996,6.472848604794353e-05
+204,"GASPAR, KRISTIN",H8CA49090,REP,CA,393401.99,Kristin Gaspar,U.S. House California District 49,Representative,0.0,"('U.S. House California District 49', 'Representative')",9,19966128.429999996,0.01970346887125578
+205,"GASPER, THERESA",H8OH10119,DEM,OH,1209688.24,Theresa Gasper,U.S. House Ohio District 10,Representative,1.0,"('U.S. House Ohio District 10', 'Representative')",1,1209688.24,1.0
+206,"GASQUE, DOROTHY",H8WA03172,DEM,WA,88996.73,Dorothy Gasque,U.S. House Washington District 3,Representative,0.0,"('U.S. House Washington District 3', 'Representative')",2,88996.73,1.0
+207,"GASSMAN, EDDIE",H8TX27106,REP,TX,0.0,Eddie Gassman,U.S. House Texas District 27,Representative,0.0,"('U.S. House Texas District 27', 'Representative')",8,1671717.96,0.0
+208,"GAYOT, LUTCHI",H8NY09174,REP,NY,3875.0,Lutchi Gayot,U.S. House New York District 9,Representative,1.0,"('U.S. House New York District 9', 'Representative')",1,3875.0,1.0
+209,"GEARHEART, MARTY",H8WV03113,REP,WV,119028.56,Marty Gearheart,U.S. House West Virginia District 3,Representative,0.0,"('U.S. House West Virginia District 3', 'Representative')",4,201678.56,0.5901894579175893
+210,"GEPPERT, KATY",H8MO03198,DEM,MO,34138.21,Katy Geppert,U.S. House Missouri District 3,Representative,1.0,"('U.S. House Missouri District 3', 'Representative')",1,34138.21,1.0
+211,"GERSHON, PERRY",H8NY01155,DEM,NY,5075781.84,Perry Gershon,U.S. House New York District 1,Representative,1.0,"('U.S. House New York District 1', 'Representative')",2,5379239.74,0.9435872140548991
+212,"GHEE, ANTONY",H8NJ11233,REP,NJ,110605.19,Antony Ghee,U.S. House New Jersey District 11,Representative,0.0,"('U.S. House New Jersey District 11', 'Representative')",6,2942044.29,0.03759467196872145
+213,"GIBBS, DAVID",H8NV04083,REP,NV,30330.0,David Gibbs,U.S. House Nevada District 4,Representative,0.0,"('U.S. House Nevada District 4', 'Representative')",6,1314661.66,0.02307057467546441
+214,"GIBSON, MARK",H4TX22163,DEM,TX,19877.79,Mark Gibson,U.S. House Texas District 22,Representative,0.0,"('U.S. House Texas District 22', 'Representative')",5,1807126.53,0.010999666968532636
+216,"GODA, BRETT",H8CA53076,REP,CA,0.0,Brett Goda,U.S. House California District 53,Representative,0.0,"('U.S. House California District 53', 'Representative')",2,94570.86,0.0
+217,"GOLDEN, IAN",H8NY23167,DEM,NY,120649.3,Ian Golden,U.S. House New York District 23,Representative,0.0,"('U.S. House New York District 23', 'Representative')",3,2180511.32,0.055330737746410785
+218,"GOLDEN, JARED",H8ME02185,DEM,ME,5776194.81,Jared Golden,U.S. House Maine District 2,Representative,1.0,"('U.S. House Maine District 2', 'Representative')",3,6606157.779999999,0.8743652516879487
+219,"GONZALEZ, JULIO",H8FL17046,REP,FL,601425.64,Julio Gonzalez,U.S. House Florida District 17,Representative,0.0,"('U.S. House Florida District 17', 'Representative')",1,601425.64,1.0
+220,"GONZALEZ, RICHARD",H8IL04126,DEM,IL,47110.0,Richard Gonzalez,U.S. House Illinois District 4,Representative,0.0,"('U.S. House Illinois District 4', 'Representative')",4,1269534.4800000002,0.037108090203268836
+221,"GOODEN, LANCE",H8TX05144,REP,TX,1038984.33,Lance Gooden,U.S. House Texas District 5,Representative,1.0,"('U.S. House Texas District 5', 'Representative')",4,2286881.9,0.4543235617020713
+222,"GRANT, ANDREW",H8CA07056,REP,CA,566014.2,Andrew Grant,U.S. House California District 7,Representative,1.0,"('U.S. House California District 7', 'Representative')",2,887961.72,0.6374308568166654
+223,"GREEN, RICK",H8MA03114,REP,MA,986102.49,Rick Green,U.S. House Massachusetts District 3,Representative,1.0,"('U.S. House Massachusetts District 3', 'Representative')",1,986102.49,1.0
+224,"GREIMEL, TIM",H8MI11338,DEM,MI,1018677.7,Tim Greimel,U.S. House Michigan District 11,Representative,0.0,"('U.S. House Michigan District 11', 'Representative')",7,8157890.890000001,0.12487022855977421
+225,"GRIESEY, DARIN PATRICK",H0IN06084,DEM,IN,0.0,Darin Patrick Griesey,U.S. House Indiana District 4,Representative,0.0,"('U.S. House Indiana District 4', 'Representative')",5,166520.63,0.0
+226,"GRIFFIN, CLAYBURN",H8NM02230,REP,NM,11684.73,Clayburn Griffin,U.S. House New Mexico District 2,Representative,0.0,"('U.S. House New Mexico District 2', 'Representative')",4,5891239.15,0.0019834078540165866
+227,"GRIFFIN, STEVEN KNIGHT",H8GA06401,DEM,GA,12303.07,Steven Knight Griffin,U.S. House Georgia District 6,Representative,0.0,"('U.S. House Georgia District 6', 'Representative')",3,1604455.5799999998,0.007668065201281547
+228,"GRIFFITH, GEORGE",H8OR01221,REP,OR,917.0,George Griffith,U.S. House Oregon District 1,Representative,0.0,"('U.S. House Oregon District 1', 'Representative')",2,917.0,1.0
+229,"GRIGORIAN, CHRISTINA",S8MD00336,REP,MD,41556.17,Christina Grigorian,U.S. Senate Maryland,Senator,0.0,"('U.S. Senate Maryland', 'Senator')",6,41556.17,1.0
+230,"GROSSMAN, SETH",H8NJ02232,REP,NJ,314048.06,Seth Grossman,U.S. House New Jersey District 2,Representative,1.0,"('U.S. House New Jersey District 2', 'Representative')",5,2492102.02,0.12601733696279416
+231,"GRUNWALD, JOHN",H2TX34063,REP,TX,0.0,John Grunwald,U.S. House Texas District 27,Representative,0.0,"('U.S. House Texas District 27', 'Representative')",8,1671717.96,0.0
+232,"GUPTA, SUNEEL",H8MI11346,DEM,MI,1482709.21,Suneel Gupta,U.S. House Michigan District 11,Representative,0.0,"('U.S. House Michigan District 11', 'Representative')",7,8157890.890000001,0.18175153725303134
+233,"HAALAND, DEBRA",H8NM01331,DEM,NM,2207240.87,Debra Haaland,U.S. House New Mexico District 1,Representative,1.0,"('U.S. House New Mexico District 1', 'Representative')",5,4358793.38,0.5063880476940616
+234,"HADER, SHANNON",H8WA08239,DEM,WA,886443.94,Shannon Hader,U.S. House Washington District 8,Representative,0.0,"('U.S. House Washington District 8', 'Representative')",5,6777897.6899999995,0.1307844969846395
+235,"HAGAN, CHRISTINA",H8OH16108,REP,OH,465139.94,Christina Hagan,U.S. House Ohio District 16,Representative,0.0,"('U.S. House Ohio District 16', 'Representative')",4,938238.0800000001,0.49575896557087085
+236,"HAGAN, MALLORY",H8AL03054,DEM,AL,467514.71,Mallory Hagan,U.S. House Alabama District 3,Representative,1.0,"('U.S. House Alabama District 3', 'Representative')",1,467514.71,1.0
+237,"HAGEN, FOSTER",H8TX21299,REP,TX,13685.01,Foster Hagen,U.S. House Texas District 21,Representative,0.0,"('U.S. House Texas District 21', 'Representative')",11,5902529.11,0.002318499366113249
+238,"HALL, MEL",H8IN02169,DEM,IN,4123139.0,Mel Hall,U.S. House Indiana District 2,Representative,1.0,"('U.S. House Indiana District 2', 'Representative')",1,4123139.0,1.0
+239,"HAMADANCHY, KIA",H8CA45155,DEM,CA,655052.65,Kia Hamadanchy,U.S. House California District 45,Representative,0.0,"('U.S. House California District 45', 'Representative')",2,2356528.2600000002,0.2779736025741529
+240,"HAMBLIN, HANK",H8TN02242,REP,TN,10945.94,Hank Hamblin,U.S. House Tennessee District 2,Representative,0.0,"('U.S. House Tennessee District 2', 'Representative')",4,1943755.4899999998,0.005631335863133692
+241,"HAMMOND, SCOTT",H8NV03119,REP,NV,290689.03,Scott Hammond,U.S. House Nevada District 3,Representative,0.0,"('U.S. House Nevada District 3', 'Representative')",10,5667748.680000001,0.05128827095417364
+242,"HANSEN, WEST",H8TX25167,DEM,TX,0.0,West Hansen,U.S. House Texas District 25,Representative,0.0,"('U.S. House Texas District 25', 'Representative')",3,156507.77000000002,0.0
+244,"HARDER, JOSH",H8CA10126,DEM,CA,8441529.09,Josh Harder,U.S. House California District 10,Representative,1.0,"('U.S. House California District 10', 'Representative')",3,9637249.959999999,0.8759271706178721
+245,"HARDY, CRESENT",H8NV04059,REP,NV,903033.08,Cresent Hardy,U.S. House Nevada District 4,Representative,1.0,"('U.S. House Nevada District 4', 'Representative')",6,1314661.66,0.6868939039417944
+246,"HARKEY, DIANE",H8CA49082,REP,CA,1645908.41,Diane Harkey,U.S. House California District 49,Representative,1.0,"('U.S. House California District 49', 'Representative')",9,19966128.429999996,0.08243503069563297
+248,"HARRIS, MATT",H8TX10144,DEM,TX,5115.0,Matt Harris,U.S. House Texas District 10,Representative,0.0,"('U.S. House Texas District 10', 'Representative')",2,31334.21,0.1632401136010769
+249,"HARRIS, TAMARA",H8NJ11175,DEM,NJ,1011027.85,Tamara Harris,U.S. House New Jersey District 11,Representative,0.0,"('U.S. House New Jersey District 11', 'Representative')",6,2942044.29,0.3436480726807821
+250,"HARRIS, TIM",H8OK01165,REP,OK,487812.1,Tim Harris,U.S. House Oklahoma District 1,Representative,0.0,"('U.S. House Oklahoma District 1', 'Representative')",7,1488296.22,0.32776546324897604
+251,"HARRISON, KEVIN",H8TX06308,REP,TX,0.0,Kevin Harrison,U.S. House Texas District 6,Representative,0.0,"('U.S. House Texas District 6', 'Representative')",7,61596.0,0.0
+252,"HASH, MARTIN",H8WA03214,DEM,WA,0.0,Martin Hash,U.S. House Washington District 3,Representative,0.0,"('U.S. House Washington District 3', 'Representative')",2,88996.73,0.0
+253,"HASSELL, MEL",H8TX06316,REP,TX,0.0,Mel Hassell,U.S. House Texas District 6,Representative,0.0,"('U.S. House Texas District 6', 'Representative')",7,61596.0,0.0
+255,"HECKROTH, THOMAS",H8IA01128,DEM,IA,340829.68,Thomas Heckroth,U.S. House Iowa District 1,Representative,0.0,"('U.S. House Iowa District 1', 'Representative')",3,5014217.350000001,0.06797265778676306
+256,"HEENAN, JOHN",H8MT00101,DEM,MT,1104281.99,John Heenan,U.S. House Montana At-large District,Representative,0.0,"('U.S. House Montana At-large District', 'Representative')",5,6107762.06,0.18079977234738578
+257,"HEFFERNAN, PETER",H8TN06177,DEM,TN,30899.63,Peter Heffernan,U.S. House Tennessee District 6,Representative,0.0,"('U.S. House Tennessee District 6', 'Representative')",4,398608.39999999997,0.07751876277569666
+258,"HENG, ELIZABETH",H8CA16065,UNK,CA,1298558.89,Elizabeth Heng,U.S. House California District 16,Representative,1.0,"('U.S. House California District 16', 'Representative')",1,1298558.89,1.0
+259,"HESLIN, ALISON",H8NJ11209,DEM,NJ,0.0,Alison Heslin,U.S. House New Jersey District 11,Representative,0.0,"('U.S. House New Jersey District 11', 'Representative')",6,2942044.29,0.0
+260,"HEWITT, MARTIN",H8NJ11159,REP,NJ,18887.99,Martin Hewitt,U.S. House New Jersey District 11,Representative,0.0,"('U.S. House New Jersey District 11', 'Representative')",6,2942044.29,0.006420022317203118
+261,"HIDALGO, JUAN",H8CA51062,REP,CA,73237.31,Juan Hidalgo,U.S. House California District 51,Representative,1.0,"('U.S. House California District 51', 'Representative')",1,73237.31,1.0
+262,"HOEBER, AMIE",H6MD06212,REP,MD,906628.86,Amie Hoeber,U.S. House Maryland District 6,Representative,1.0,"('U.S. House Maryland District 6', 'Representative')",5,2840832.48,0.3191419650341368
+263,"HOLGUIN, ERIC",H8TX27056,DEM,TX,202465.79,Eric Holguin,U.S. House Texas District 27,Representative,1.0,"('U.S. House Texas District 27', 'Representative')",8,1671717.96,0.1211124094162391
+266,"HORNBERGER, BENJAMIN",H0PA09039,REP,PA,475.9,Benjamin Hornberger,U.S. House Pennsylvania District 13,Representative,0.0,"('U.S. House Pennsylvania District 13', 'Representative')",4,1895910.83,0.0002510139150373438
+267,"HOSTA, JOHN",H4IL14124,DEM,IL,0.0,John Hosta,U.S. House Illinois District 14,Representative,0.0,"('U.S. House Illinois District 14', 'Representative')",6,279346.48,0.0
+268,"HOULAHAN, CHRISSY",H8PA06087,DEM,PA,4354449.5,Chrissy Houlahan,U.S. House Pennsylvania District 6,Representative,1.0,"('U.S. House Pennsylvania District 6', 'Representative')",1,4354449.5,1.0
+269,"HOUSLEY, KARIN",S8MN00586,REP,MN,4697809.09,Karin Housley,U.S. Senate Minnesota,Senator,1.0,"('U.S. Senate Minnesota', 'Senator')",4,4707609.09,0.9979182638548265
+270,"HOWLAND, AMANDA",H6IL06166,DEM,IL,198264.19,Amanda Howland,U.S. House Illinois District 6,Representative,0.0,"('U.S. House Illinois District 6', 'Representative')",6,8244590.320000001,0.024047791619074648
+271,"HOYOS, RENEE",H8TN02176,DEM,TN,351595.19,Renee Hoyos,U.S. House Tennessee District 2,Representative,1.0,"('U.S. House Tennessee District 2', 'Representative')",4,1943755.4899999998,0.1808844743121472
+272,"HUFF, BOB",H8CA39224,REP,CA,694241.17,Bob Huff,U.S. House California District 39,Representative,0.0,"('U.S. House California District 39', 'Representative')",7,8809080.65,0.07880971892339299
+273,"HUFFMAN, RYAN",H8IL06162,DEM,IL,8688.83,Ryan Huffman,U.S. House Illinois District 6,Representative,0.0,"('U.S. House Illinois District 6', 'Representative')",6,8244590.320000001,0.0010538825657500951
+274,"HUFFMAN, SCOTT",H8NC08109,DEM,NC,14898.22,Scott Huffman,U.S. House North Carolina District 8,Representative,0.0,"('U.S. House North Carolina District 8', 'Representative')",2,67476.3,0.22079189285719578
+275,"HUGHES-HAGEMAN, JACK",H8WA08288,REP,WA,0.0,Jack Hughes-Hageman,U.S. House Washington District 8,Representative,0.0,"('U.S. House Washington District 8', 'Representative')",5,6777897.6899999995,0.0
+277,"HULINGS, JAY",H8TX23147,DEM,TX,617990.01,Jay Hulings,U.S. House Texas District 23,Representative,0.0,"('U.S. House Texas District 23', 'Representative')",3,6815741.25,0.09067099048104268
+278,"HUTCHISON, SUSAN",S8WA00319,REP,WA,1933255.94,Susan Hutchison,U.S. Senate Washington,Senator,1.0,"('U.S. Senate Washington', 'Senator')",2,1933255.94,1.0
+279,"HYMAN, MAL",H6SC07018,DEM,SC,53061.78,Mal Hyman,U.S. House South Carolina District 7,Representative,0.0,"('U.S. House South Carolina District 7', 'Representative')",2,79276.07,0.6693290926253028
+280,"ISAAC, JASON",H8TX21216,REP,TX,253514.56,Jason Isaac,U.S. House Texas District 21,Representative,0.0,"('U.S. House Texas District 21', 'Representative')",11,5902529.11,0.042950158360167745
+281,"JACKSON, SHANELLE",H8MI13292,DEM,MI,0.0,Shanelle Jackson,U.S. House Michigan District 13,Representative,0.0,"('U.S. House Michigan District 13', 'Representative')",7,4298396.4399999995,0.0
+282,"JACOB, PETER",H6NJ07151,DEM,NJ,141436.23,Peter Jacob,U.S. House New Jersey District 7,Representative,0.0,"('U.S. House New Jersey District 7', 'Representative')",2,6448364.33,0.02193365988053594
+283,"JACOBS, SARA",H8CA49074,DEM,CA,2905005.64,Sara Jacobs,U.S. House California District 49,Representative,0.0,"('U.S. House California District 49', 'Representative')",9,19966128.429999996,0.14549669206951008
+284,"JACOBSEN, LEANN",H8IA04114,DEM,IA,276410.33,Leann Jacobsen,U.S. House Iowa District 4,Representative,0.0,"('U.S. House Iowa District 4', 'Representative')",1,276410.33,1.0
+285,"JAMES, JOHN",S8MI00372,REP,MI,12551466.52,John James,U.S. Senate Michigan,Senator,1.0,"('U.S. Senate Michigan', 'Senator')",2,17786713.42,0.705665303286817
+286,"JANZ, ANDREW",H8CA22139,DEM,CA,9233869.01,Andrew Janz,U.S. House California District 22,Representative,1.0,"('U.S. House California District 22', 'Representative')",2,9628047.68,0.9590593354851354
+287,"JARVIS, ROB",H8OH15159,DEM,OH,0.0,Rob Jarvis,U.S. House Ohio District 15,Representative,0.0,"('U.S. House Ohio District 15', 'Representative')",2,1328023.44,0.0
+288,"JODUN, WADE",H8PA05212,DEM,PA,0.0,Wade Jodun,U.S. House Pennsylvania District 15,Representative,0.0,"('U.S. House Pennsylvania District 15', 'Representative')",2,144712.13,0.0
+289,"JOHNSON, DUSTY",H8SD01055,REP,SD,1668537.77,Dusty Johnson,U.S. House South Dakota At-large District,Representative,1.0,"('U.S. House South Dakota At-large District', 'Representative')",3,2535713.92,0.6580149901137112
+290,"JOHNSON, FRANCYS",H8GA12078,DEM,GA,282355.12,Francys Johnson,U.S. House Georgia District 12,Representative,1.0,"('U.S. House Georgia District 12', 'Representative')",1,282355.12,1.0
+291,"JOHNSON, MARGARITA RUIZ",H8TX22271,DEM,TX,18523.0,Margarita Ruiz Johnson,U.S. House Texas District 22,Representative,0.0,"('U.S. House Texas District 22', 'Representative')",5,1807126.53,0.010249974029212
+292,"JOHNSON, SAM",H4MI13218,OTH,MI,0.0,Sam Johnson,U.S. House Texas District 3,Representative,0.0,"('U.S. House Texas District 3', 'Representative')",4,61895.74,0.0
+293,"JOHNSON-GREEN, TABITHA",H8GA10197,DEM,GA,24773.15,Tabitha Johnson-Green,U.S. House Georgia District 10,Representative,1.0,"('U.S. House Georgia District 10', 'Representative')",2,143873.79,0.17218667833800722
+294,"JONES, BRENDA",H8MI13243,DEM,MI,270417.42,Brenda Jones,U.S. House Michigan District 13,Representative,1.0,"('U.S. House Michigan District 13', 'Representative')",7,4298396.4399999995,0.06291123300855889
+295,"JONES, BRENDA",H8MI13243,DEM,MI,270417.42,Brenda Jones,U.S. House Michigan District 13,Representative,0.0,"('U.S. House Michigan District 13', 'Representative')",7,4298396.4399999995,0.06291123300855889
+296,"JONES, GINA ORTIZ",H8TX23121,DEM,TX,6195216.24,Gina Ortiz Jones,U.S. House Texas District 23,Representative,1.0,"('U.S. House Texas District 23', 'Representative')",3,6815741.25,0.9089570763854922
+297,"JONES, JEFF",H6MI12264,REP,MI,82410.0,Jeff Jones,U.S. House Michigan District 12,Representative,1.0,"('U.S. House Michigan District 12', 'Representative')",1,82410.0,1.0
+298,"JONES, JIMMY DARNELL",H8TX02091,DEM,TX,19035.37,Jimmy Darnell Jones,U.S. House Texas District 2,Representative,0.0,"('U.S. House Texas District 2', 'Representative')",7,3785546.39,0.005028433953493302
+299,"JONES, KEVIN",H8KS02181,REP,KS,135030.91,Kevin Jones,U.S. House Kansas District 2,Representative,0.0,"('U.S. House Kansas District 2', 'Representative')",4,2172365.42,0.062158469637212325
+300,"JONES, STEPHANIE",H8NV03234,REP,NV,3849.0,Stephanie Jones,U.S. House Nevada District 3,Representative,0.0,"('U.S. House Nevada District 3', 'Representative')",10,5667748.680000001,0.000679105623293092
+301,"JOYCE, JOHN",H8PA13125,REP,PA,1522103.44,John Joyce,U.S. House Pennsylvania District 13,Representative,1.0,"('U.S. House Pennsylvania District 13', 'Representative')",4,1895910.83,0.8028349307968244
+302,"KANE, TIM",H8OH12263,REP,OH,514433.53,Tim Kane,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.07065724078466235
+303,"KANE, TIM",H8OH12263,REP,OH,514433.53,Tim Kane,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.07065724078466235
+304,"KANEW, JUSTIN",H8TN07068,DEM,TN,494481.5,Justin Kanew,U.S. House Tennessee District 7,Representative,1.0,"('U.S. House Tennessee District 7', 'Representative')",2,691307.28,0.7152846705158378
+305,"KAPLE, BOBBY",H8GA06369,DEM,GA,693572.44,Bobby Kaple,U.S. House Georgia District 6,Representative,0.0,"('U.S. House Georgia District 6', 'Representative')",3,1604455.5799999998,0.43227899148195803
+306,"KEIRSTEAD, HANS",H8CA48076,DEM,CA,2178356.89,Hans Keirstead,U.S. House California District 48,Representative,0.0,"('U.S. House California District 48', 'Representative')",5,3344733.0700000003,0.6512797417343681
+307,"KELLER, CRAIG",H4WA07073,REP,WA,7204.0,Craig Keller,U.S. House Washington District 7,Representative,1.0,"('U.S. House Washington District 7', 'Representative')",1,7204.0,1.0
+309,"KELLY, BRENDAN",H8IL12129,DEM,IL,3931101.31,Brendan Kelly,U.S. House Illinois District 12,Representative,1.0,"('U.S. House Illinois District 12', 'Representative')",1,3931101.31,1.0
+311,"KENNEDY, MIKE",S8UT00242,REP,UT,752498.82,Mike Kennedy,U.S. Senate Utah,Senator,0.0,"('U.S. Senate Utah', 'Senator')",2,1713294.92,0.4392114931386127
+312,"KERR, PAUL",H8CA49066,DEM,CA,8182261.8,Paul Kerr,U.S. House California District 49,Representative,0.0,"('U.S. House California District 49', 'Representative')",9,19966128.429999996,0.40980713054543855
+313,"KESTO, KLINT",H8MI11270,REP,MI,649799.0,Klint Kesto,U.S. House Michigan District 11,Representative,0.0,"('U.S. House Michigan District 11', 'Representative')",7,8157890.890000001,0.07965281820531923
+315,"KHORASANI, ALI",H8TX02083,DEM,TX,12829.87,Ali Khorasani,U.S. House Texas District 2,Representative,0.0,"('U.S. House Texas District 2', 'Representative')",7,3785546.39,0.0033891725733151035
+316,"KIER, GRANT",H8MT00119,DEM,MT,842507.79,Grant Kier,U.S. House Montana At-large District,Representative,0.0,"('U.S. House Montana At-large District', 'Representative')",5,6107762.06,0.13794050614997272
+317,"KILEY, DAN",S8OH00110,REP,OH,1106376.5,Dan Kiley,U.S. Senate Ohio,Senator,0.0,"('U.S. Senate Ohio', 'Senator')",2,1144754.5,0.9664749079387764
+318,"KIM, DAVID",H8GA07151,DEM,GA,1547808.5,David Kim,U.S. House Georgia District 7,Representative,0.0,"('U.S. House Georgia District 7', 'Representative')",5,5103604.22,0.303277533538837
+319,"KIM, PEARL",H8PA05295,REP,PA,521262.95,Pearl Kim,U.S. House Pennsylvania District 5,Representative,1.0,"('U.S. House Pennsylvania District 5', 'Representative')",8,3880740.18,0.13432049707589544
+320,"KIM, YOUNG",H8CA39240,REP,CA,2907665.64,Young Kim,U.S. House California District 39,Representative,1.0,"('U.S. House California District 39', 'Representative')",7,8809080.65,0.33007594725563105
+321,"KING, JESSICA",H8PA16078,DEM,PA,1947624.76,Jessica King,U.S. House Pennsylvania District 11,Representative,1.0,"('U.S. House Pennsylvania District 11', 'Representative')",1,1947624.76,1.0
+322,"KIPNIS, DARYL",H8NJ12108,REP,NJ,24783.35,Daryl Kipnis,U.S. House New Jersey District 12,Representative,1.0,"('U.S. House New Jersey District 12', 'Representative')",1,24783.35,1.0
+323,"KIRKLAND, THADDEUS",H8PA05279,DEM,PA,61542.79,Thaddeus Kirkland,U.S. House Pennsylvania District 5,Representative,0.0,"('U.S. House Pennsylvania District 5', 'Representative')",8,3880740.18,0.015858518515918785
+324,"KLINE, DANNER",H8AL06099,DEM,AL,287432.23,Danner Kline,U.S. House Alabama District 6,Representative,1.0,"('U.S. House Alabama District 6', 'Representative')",1,287432.23,1.0
+325,"KNIGHT, DAVID DREW",S8NV00198,DEM,NV,0.0,David Drew Knight,U.S. Senate Nevada,Senator,0.0,"('U.S. Senate Nevada', 'Senator')",4,28399690.35,0.0
+326,"KOPSER, JOSEPH",H8NY21237,DEM,NY,0.0,Joseph Kopser,U.S. House Texas District 21,Representative,1.0,"('U.S. House Texas District 21', 'Representative')",11,5902529.11,0.0
+327,"KOPSER, JOSEPH",H8TX21190,DEM,TX,3251481.82,Joseph Kopser,U.S. House Texas District 21,Representative,1.0,"('U.S. House Texas District 21', 'Representative')",11,5902529.11,0.5508624793550573
+328,"KOTICK, MICHAEL",H8CA48100,DEM,CA,531818.3,Michael Kotick,U.S. House California District 48,Representative,0.0,"('U.S. House California District 48', 'Representative')",5,3344733.0700000003,0.15900171669005564
+329,"KRANTZ, CATHERINE",H8TX04162,DEM,TX,29171.29,Catherine Krantz,U.S. House Texas District 4,Representative,1.0,"('U.S. House Texas District 4', 'Representative')",1,29171.29,1.0
+330,"KREBS, SHANTEL",H8SD01063,REP,SD,685166.15,Shantel Krebs,U.S. House South Dakota At-large District,Representative,0.0,"('U.S. House South Dakota At-large District', 'Representative')",3,2535713.92,0.27020640798469886
+331,"KREHNBRINK, BILL",S8MD00369,REP,MD,0.0,Bill Krehnbrink,U.S. Senate Maryland,Senator,0.0,"('U.S. Senate Maryland', 'Senator')",6,41556.17,0.0
+333,"KULKARNI, SRI PRESTON",H8TX22313,DEM,TX,1637103.82,Sri Preston Kulkarni,U.S. House Texas District 22,Representative,1.0,"('U.S. House Texas District 22', 'Representative')",5,1807126.53,0.9059154369229475
+334,"KUSHMER, DANNY",H8FL15248,REP,FL,77077.25,Danny Kushmer,U.S. House Florida District 15,Representative,0.0,"('U.S. House Florida District 15', 'Representative')",3,316694.25,0.24338064237036194
+335,"LA CROIX, THOMAS MARK",H8NV03291,REP,NV,0.0,Thomas Mark La Croix,U.S. House Nevada District 3,Representative,0.0,"('U.S. House Nevada District 3', 'Representative')",10,5667748.680000001,0.0
+336,"LANE, ERIK",H8MD01250,DEM,MD,0.0,Erik Lane,U.S. House Maryland District 1,Representative,0.0,"('U.S. House Maryland District 1', 'Representative')",2,1876162.65,0.0
+337,"LANGE, WERNER",H8OH06117,DEM,OH,797.0,Werner Lange,U.S. House Ohio District 6,Representative,0.0,"('U.S. House Ohio District 6', 'Representative')",2,23824.73,0.03345263514004146
+338,"LARA, DAMIAN",H8NM01364,DEM,NM,477889.7,Damian Lara,U.S. House New Mexico District 1,Representative,0.0,"('U.S. House New Mexico District 1', 'Representative')",5,4358793.38,0.10963807144260644
+339,"LAWTON, ROBERT",H8CA04244,DEM,CA,0.0,Robert Lawton,U.S. House California District 4,Representative,0.0,"('U.S. House California District 4', 'Representative')",3,4618138.96,0.0
+340,"LEE, HERBERT",H8CA39299,DEM,CA,1064247.19,Herbert Lee,U.S. House California District 39,Representative,0.0,"('U.S. House California District 39', 'Representative')",7,8809080.65,0.12081251520838328
+341,"LEE, SUSIE",H6NV04020,DEM,NV,5087840.82,Susie Lee,U.S. House Nevada District 3,Representative,1.0,"('U.S. House Nevada District 3', 'Representative')",10,5667748.680000001,0.8976828556201966
+342,"LEIB, BRYAN",H6PA01165,DEM,PA,18077.0,Bryan Leib,U.S. House Pennsylvania District 3,Representative,1.0,"('U.S. House Pennsylvania District 3', 'Representative')",1,18077.0,1.0
+343,"LESKO, DEBBIE",H8AZ08158,REP,AZ,2103473.83,Debbie Lesko,U.S. House Arizona District 8,Representative,1.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.2766994272384772
+344,"LEVENSON, STEWART",H8NH02267,REP,NH,514562.19,Stewart Levenson,U.S. House New Hampshire District 2,Representative,0.0,"('U.S. House New Hampshire District 2', 'Representative')",4,1110510.85,0.4633562922865634
+345,"LEVIN, ANDY",H8MI09118,DEM,MI,1492163.61,Andy Levin,U.S. House Michigan District 9,Representative,1.0,"('U.S. House Michigan District 9', 'Representative')",3,2931987.88,0.5089255723662814
+346,"LEVIN, MIKE",H8CA49058,DEM,CA,6055213.14,Mike Levin,U.S. House California District 49,Representative,1.0,"('U.S. House California District 49', 'Representative')",9,19966128.429999996,0.3032742757930863
+347,"LEVIN, NAOMI",H8NY10099,REP,NY,82474.0,Naomi Levin,U.S. House New York District 10,Representative,1.0,"('U.S. House New York District 10', 'Representative')",1,82474.0,1.0
+348,"LI, LINDY",H6PA07113,DEM,PA,168138.0,Lindy Li,U.S. House Pennsylvania District 5,Representative,0.0,"('U.S. House Pennsylvania District 5', 'Representative')",8,3880740.18,0.04332627081465681
+349,"LIBERATORE, PHIL",H8CA39307,REP,CA,250772.0,Phil Liberatore,U.S. House California District 39,Representative,0.0,"('U.S. House California District 39', 'Representative')",7,8809080.65,0.028467442853982724
+350,"LIEBNITZKY, WAYNE",H6FL09195,REP,FL,71506.89,Wayne Liebnitzky,U.S. House Florida District 9,Representative,1.0,"('U.S. House Florida District 9', 'Representative')",1,71506.89,1.0
+351,"LIEN, DAVID",H8AZ08109,REP,AZ,17745.0,David Lien,U.S. House Arizona District 8,Representative,0.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.0023342488346274207
+352,"LINDERMAN, HANK",H8KY02080,DEM,KY,183296.01,Hank Linderman,U.S. House Kentucky District 2,Representative,1.0,"('U.S. House Kentucky District 2', 'Representative')",4,190886.86000000002,0.9602337740795778
+353,"LINDSTROM, BETH",S8MA00326,REP,MA,1621187.58,Beth Lindstrom,U.S. Senate Massachusetts,Senator,0.0,"('U.S. Senate Massachusetts', 'Senator')",2,4646221.140000001,0.34892604788931764
+354,"LIPTON, ELLEN",H8MI09134,DEM,MI,1403536.62,Ellen Lipton,U.S. House Michigan District 9,Representative,0.0,"('U.S. House Michigan District 9', 'Representative')",3,2931987.88,0.478697961057056
+355,"LITTLE, PATRICK",S8CA00606,REP,CA,13653.0,Patrick Little,U.S. Senate California,Senator,0.0,"('U.S. Senate California', 'Senator')",4,55771.0,0.24480464757669756
+356,"LIVENGOOD, MARLA",H8CA09144,REP,CA,99966.73,Marla Livengood,U.S. House California District 9,Representative,1.0,"('U.S. House California District 9', 'Representative')",1,99966.73,1.0
+357,"LLOYD, LISA",H8MD06184,REP,MD,20253.0,Lisa Lloyd,U.S. House Maryland District 6,Representative,0.0,"('U.S. House Maryland District 6', 'Representative')",5,2840832.48,0.007129248254722855
+358,"LOMBARD, LAURA",H8KS04088,DEM,KS,112949.81,Laura Lombard,U.S. House Kansas District 4,Representative,0.0,"('U.S. House Kansas District 4', 'Representative')",1,112949.81,1.0
+359,"LOMBARDI-OLIVE, CAMILLE",H6MO07235,REP,MO,0.0,Camille Lombardi-Olive,U.S. House Missouri District 1,Representative,0.0,"('U.S. House Missouri District 1', 'Representative')",3,100.0,0.0
+360,"LOMBARDI-OLIVE, CAMILLE",S8MO00194,REP,MO,0.0,Camille Lombardi-Olive,U.S. House Missouri District 1,Representative,0.0,"('U.S. House Missouri District 1', 'Representative')",3,100.0,0.0
+361,"LONGJOHN, MATT",H8MI06155,DEM,MI,1453674.97,Matt Longjohn,U.S. House Michigan District 6,Representative,1.0,"('U.S. House Michigan District 6', 'Representative')",3,2493972.48,0.5828753050234139
+362,"LORCH, MARK WAYNE",H8IL04175,REP,IL,8109.36,Mark Wayne Lorch,U.S. House Illinois District 4,Representative,1.0,"('U.S. House Illinois District 4', 'Representative')",4,1269534.4800000002,0.006387664240517515
+363,"LORD, CHRISTINA",H8KY04185,DEM,KY,0.0,Christina Lord,U.S. House Kentucky District 4,Representative,0.0,"('U.S. House Kentucky District 4', 'Representative')",2,36119.61,0.0
+364,"LOVAS, PHIL",H8AZ08133,REP,AZ,318412.83,Phil Lovas,U.S. House Arizona District 8,Representative,0.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.041885307261646604
+365,"LOVE, SHIRLEY",H8WV03121,DEM,WV,64000.0,Shirley Love,U.S. House West Virginia District 3,Representative,0.0,"('U.S. House West Virginia District 3', 'Representative')",4,201678.56,0.31733665690592
+366,"LUNKENHEIMER, ASHLEY",H8PA07184,DEM,PA,884076.29,Ashley Lunkenheimer,U.S. House Pennsylvania District 5,Representative,0.0,"('U.S. House Pennsylvania District 5', 'Representative')",8,3880740.18,0.22781125481067377
+367,"LURIA, ELAINE",H8VA02111,DEM,VA,4278196.33,Elaine Luria,U.S. House Virginia District 2,Representative,1.0,"('U.S. House Virginia District 2', 'Representative')",1,4278196.33,1.0
+368,"MACK, RICHARD",H8AZ08190,REP,AZ,72709.69,Richard Mack,U.S. House Arizona District 8,Representative,0.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.00956452573393187
+369,"MADUENO, VIRGINIA",H8CA10175,DEM,CA,355454.26,Virginia Madueno,U.S. House California District 10,Representative,0.0,"('U.S. House California District 10', 'Representative')",3,9637249.959999999,0.036883370409124476
+370,"MALIK, SILKY",H8TX02158,DEM,TX,19431.18,Silky Malik,U.S. House Texas District 2,Representative,0.0,"('U.S. House Texas District 2', 'Representative')",7,3785546.39,0.005132992175536383
+371,"MALINOWSKI, TOM",H8NJ07223,DEM,NJ,6306928.1,Tom Malinowski,U.S. House New Jersey District 7,Representative,1.0,"('U.S. House New Jersey District 7', 'Representative')",2,6448364.33,0.978066340119464
+372,"MANJARRES, JAVIER",H8FL22079,REP,FL,87122.16,Javier Manjarres,U.S. House Florida District 22,Representative,0.0,"('U.S. House Florida District 22', 'Representative')",1,87122.16,1.0
+373,"MANNING, KATHY",H8NC13067,DEM,NC,4211689.46,Kathy Manning,U.S. House North Carolina District 13,Representative,1.0,"('U.S. House North Carolina District 13', 'Representative')",2,4283327.41,0.9832751636419966
+374,"MANNO, ROGER",H8MD06150,DEM,MD,442709.56,Roger Manno,U.S. House Maryland District 6,Representative,0.0,"('U.S. House Maryland District 6', 'Representative')",5,2840832.48,0.15583796760870602
+375,"MAPP, CHRIS",H8TX27080,REP,TX,47924.5,Chris Mapp,U.S. House Texas District 27,Representative,0.0,"('U.S. House Texas District 27', 'Representative')",8,1671717.96,0.028667814276518273
+376,"MARKS, STEPHEN",H6FL18170,REP,FL,450000.0,Stephen Marks,U.S. House Florida District 27,Representative,0.0,"('U.S. House Florida District 27', 'Representative')",7,3451467.7,0.1303793166020357
+377,"MARQUEZ PETERSON, LEA",H8AZ02185,REP,AZ,1466445.23,Lea Marquez Peterson,U.S. House Arizona District 2,Representative,1.0,"('U.S. House Arizona District 2', 'Representative')",1,1466445.23,1.0
+378,"MARTIN, ANDY",H6NH02196,REP,NH,0.0,Andy Martin,U.S. House New Hampshire District 1,Representative,0.0,"('U.S. House New Hampshire District 1', 'Representative')",5,2480153.7399999998,0.0
+379,"MARTZ, EMILY",H8NY21260,DEM,NY,250823.86,Emily Martz,U.S. House New York District 21,Representative,0.0,"('U.S. House New York District 21', 'Representative')",3,715162.9299999999,0.35072268077429575
+380,"MARVIN, LARRY",S8NE00141,DEM,NE,35207.23,Larry Marvin,U.S. Senate Nebraska,Senator,0.0,"('U.S. Senate Nebraska', 'Senator')",2,2141281.81,0.016442128184893143
+381,"MARYOTT, BRIAN",H8CA49108,REP,CA,760193.75,Brian Maryott,U.S. House California District 49,Representative,0.0,"('U.S. House California District 49', 'Representative')",9,19966128.429999996,0.038074169094183284
+382,"MASON, RAZ",H8OR02187,DEM,OR,8660.0,Raz Mason,U.S. House Oregon District 2,Representative,0.0,"('U.S. House Oregon District 2', 'Representative')",5,270054.13,0.03206764510507579
+383,"MATERNOWSKI, TODD",H8TX32114,DEM,TX,5731.0,Todd Maternowski,U.S. House Texas District 32,Representative,0.0,"('U.S. House Texas District 32', 'Representative')",4,6811149.959999999,0.0008414144503727827
+384,"MATHENY, JUDD",H8TN06086,REP,TN,276131.91,Judd Matheny,U.S. House Tennessee District 6,Representative,0.0,"('U.S. House Tennessee District 6', 'Representative')",4,398608.39999999997,0.6927398168227262
+385,"MATORY, LIZ",H6MD08507,REP,MD,39521.42,Liz Matory,U.S. House Maryland District 2,Representative,1.0,"('U.S. House Maryland District 2', 'Representative')",2,79042.84,0.5
+386,"MATORY, LIZ",H8MD02118,REP,MD,39521.42,Liz Matory,U.S. House Maryland District 2,Representative,1.0,"('U.S. House Maryland District 2', 'Representative')",2,79042.84,0.5
+387,"MATTA, TATIANA",H8CA23103,DEM,CA,116057.86,Tatiana Matta,U.S. House California District 23,Representative,1.0,"('U.S. House California District 23', 'Representative')",3,155492.97999999998,0.7463864928178752
+388,"MAY, WENDY",H8NC02078,DEM,NC,0.0,Wendy May,U.S. House North Carolina District 2,Representative,0.0,"('U.S. House North Carolina District 2', 'Representative')",3,2383565.77,0.0
+389,"MAZESKI, KELLY",H8IL06121,DEM,IL,923500.75,Kelly Mazeski,U.S. House Illinois District 6,Representative,0.0,"('U.S. House Illinois District 6', 'Representative')",6,8244590.320000001,0.112012933833685
+391,"MEDWAY, DAVID",H8CA49140,REP,CA,0.0,David Medway,U.S. House California District 49,Representative,0.0,"('U.S. House California District 49', 'Representative')",9,19966128.429999996,0.0
+394,"MEYER, JOHN",H6IN01207,REP,IN,0.0,John Meyer,U.S. House Montana At-large District,Representative,0.0,"('U.S. House Montana At-large District', 'Representative')",5,6107762.06,0.0
+396,"MEYER, JOHN",H8MT01265,DEM,MT,0.0,John Meyer,U.S. House Montana At-large District,Representative,0.0,"('U.S. House Montana At-large District', 'Representative')",5,6107762.06,0.0
+398,"MILLER, ARUNA",H8MD06143,DEM,MD,1471241.06,Aruna Miller,U.S. House Maryland District 6,Representative,0.0,"('U.S. House Maryland District 6', 'Representative')",5,2840832.48,0.5178908191024344
+399,"MILLER, DARREL",H4IL18117,DEM,IL,0.0,Darrel Miller,U.S. House Illinois District 18,Representative,0.0,"('U.S. House Illinois District 18', 'Representative')",3,98894.39,0.0
+400,"MILLER, JEFF",H8NV04067,REP,NV,0.0,Jeff Miller,U.S. House Nevada District 4,Representative,0.0,"('U.S. House Nevada District 4', 'Representative')",6,1314661.66,0.0
+401,"MILLER, MIKE",H8FL07062,REP,FL,1137563.66,Mike Miller,U.S. House Florida District 7,Representative,1.0,"('U.S. House Florida District 7', 'Representative')",1,1137563.66,1.0
+402,"MITCHELL, MARK",H8TX06324,REP,TX,0.0,Mark Mitchell,U.S. House Texas District 6,Representative,0.0,"('U.S. House Texas District 6', 'Representative')",7,61596.0,0.0
+403,"MITRANO, TRACY",H8NY23183,DEM,NY,1775877.64,Tracy Mitrano,U.S. House New York District 23,Representative,1.0,"('U.S. House New York District 23', 'Representative')",3,2180511.32,0.8144317453027485
+404,"MOHAN, RADHAKRISHNA",H8NY11139,DEM,NY,118663.12,Radhakrishna Mohan,U.S. House New York District 11,Representative,0.0,"('U.S. House New York District 11', 'Representative')",4,4847789.35,0.024477779753363252
+405,"MONROE, MIKE",H4NV04033,REP,NV,0.0,Mike Monroe,U.S. House Nevada District 4,Representative,0.0,"('U.S. House Nevada District 4', 'Representative')",6,1314661.66,0.0
+406,"MONTENEGRO, STEVE",H8AZ08174,REP,AZ,356446.69,Steve Montenegro,U.S. House Arizona District 8,Representative,0.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.04688843453025086
+407,"MOORE, KYLE BRENDEN",H8IN05204,DEM,IN,6244.35,Kyle Brenden Moore,U.S. House Indiana District 5,Representative,0.0,"('U.S. House Indiana District 5', 'Representative')",3,6678.35,0.9350138881609978
+408,"MOORE, SIDNEY",H8SC05265,DEM,SC,0.0,Sidney Moore,U.S. House South Carolina District 5,Representative,0.0,"('U.S. House South Carolina District 5', 'Representative')",2,2039416.09,0.0
+409,"MORGANELLI, JOHN",H8PA15278,DEM,PA,262745.0,John Morganelli,U.S. House Pennsylvania District 7,Representative,0.0,"('U.S. House Pennsylvania District 7', 'Representative')",5,4261507.57,0.061655410833870695
+410,"MORSE, JESSICA",H8CA04210,DEM,CA,3813237.37,Jessica Morse,U.S. House California District 4,Representative,1.0,"('U.S. House California District 4', 'Representative')",3,4618138.96,0.8257086681514668
+411,"MORTENSEN, MICHELLE",H8NV03218,REP,NV,138283.18,Michelle Mortensen,U.S. House Nevada District 3,Representative,0.0,"('U.S. House Nevada District 3', 'Representative')",10,5667748.680000001,0.02439825542864402
+412,"MOSER, LAURA",H8TX07116,DEM,TX,1319841.25,Laura Moser,U.S. House Texas District 7,Representative,0.0,"('U.S. House Texas District 7', 'Representative')",3,2005288.95,0.6581800842217777
+413,"MOSSER, JOHN MARSHALL",H8SC04383,REP,SC,24875.0,John Marshall Mosser,U.S. House South Carolina District 4,Representative,0.0,"('U.S. House South Carolina District 4', 'Representative')",6,616503.09,0.04034854066992592
+414,"MOTTUS, KEVIN",S8CA00614,REP,CA,0.0,Kevin Mottus,U.S. Senate California,Senator,0.0,"('U.S. Senate California', 'Senator')",4,55771.0,0.0
+415,"MOYA, PAUL",H8NM01430,DEM,NM,212632.86,Paul Moya,U.S. House New Mexico District 1,Representative,0.0,"('U.S. House New Mexico District 1', 'Representative')",5,4358793.38,0.04878250503353752
+416,"MURTAUGH, MORGAN",H8CA53084,REP,CA,94570.86,Morgan Murtaugh,U.S. House California District 53,Representative,1.0,"('U.S. House California District 53', 'Representative')",2,94570.86,1.0
+417,"NABLIBA, MARIO",S8CA00523,REP,CA,9630.0,Mario Nabliba,U.S. Senate California,Senator,0.0,"('U.S. Senate California', 'Senator')",4,55771.0,0.17267038424987896
+418,"NALBANDIAN, JOHNNY",H8CA28185,REP,CA,36370.0,Johnny Nalbandian,U.S. House California District 28,Representative,1.0,"('U.S. House California District 28', 'Representative')",1,36370.0,1.0
+419,"NARVAIZ, SUSAN",H8TX21224,REP,TX,70808.77,Susan Narvaiz,U.S. House Texas District 21,Representative,0.0,"('U.S. House Texas District 21', 'Representative')",11,5902529.11,0.011996344055302761
+421,"NAVARRO, OMAR",H6CA44145,REP,CA,1173123.55,Omar Navarro,U.S. House California District 43,Representative,1.0,"('U.S. House California District 43', 'Representative')",2,1191633.31,0.9844668994692671
+422,"NEAHRING, JENNIFER",H8OR02179,DEM,OR,175768.13,Jennifer Neahring,U.S. House Oregon District 2,Representative,0.0,"('U.S. House Oregon District 2', 'Representative')",5,270054.13,0.6508625881781552
+423,"NEAL, RICK",H8OH15134,DEM,OH,1328023.44,Rick Neal,U.S. House Ohio District 15,Representative,1.0,"('U.S. House Ohio District 15', 'Representative')",2,1328023.44,1.0
+424,"NEASE, JAMES",H8IN04264,REP,IN,0.0,James Nease,U.S. House Indiana District 4,Representative,0.0,"('U.S. House Indiana District 4', 'Representative')",5,166520.63,0.0
+425,"NEGRON, STEVE",H8NH02275,REP,NH,461905.1,Steve Negron,U.S. House New Hampshire District 2,Representative,1.0,"('U.S. House New Hampshire District 2', 'Representative')",4,1110510.85,0.41593929496501536
+426,"NELSON, KEVIN",H8TX10136,DEM,TX,26219.21,Kevin Nelson,U.S. House Texas District 10,Representative,0.0,"('U.S. House Texas District 10', 'Representative')",2,31334.21,0.8367598863989231
+427,"NELSON, SHAWN",H8CA39232,REP,CA,694900.84,Shawn Nelson,U.S. House California District 39,Representative,0.0,"('U.S. House California District 39', 'Representative')",7,8809080.65,0.0788846041499234
+428,"NEWBROUGH, JACK",S8WV00168,REP,WV,0.0,Jack Newbrough,U.S. Senate West Virginia,Senator,0.0,"('U.S. Senate West Virginia', 'Senator')",2,4165210.09,0.0
+429,"NEWMAN, MONTY",H8NM02073,REP,NM,886783.38,Monty Newman,U.S. House New Mexico District 2,Representative,0.0,"('U.S. House New Mexico District 2', 'Representative')",4,5891239.15,0.1505257819995306
+430,"NEWTON, WILLIAM",H6MD07434,REP,MD,0.0,William Newton,U.S. House Maryland District 7,Representative,0.0,"('U.S. House Maryland District 7', 'Representative')",3,19278.86,0.0
+432,"NICHOLS, KRISTI",S0MO00290,REP,MO,0.0,Kristi Nichols,U.S. Senate Missouri,Senator,0.0,"('U.S. Senate Missouri', 'Senator')",6,656083.49,0.0
+433,"NICHOLSON, KEVIN",S8WI00216,REP,WI,3893750.0,Kevin Nicholson,U.S. Senate Wisconsin,Senator,0.0,"('U.S. Senate Wisconsin', 'Senator')",2,9746449.030000001,0.39950447470815936
+434,"NIEDERKORN, DAVID",H8TX03149,REP,TX,53845.74,David Niederkorn,U.S. House Texas District 3,Representative,0.0,"('U.S. House Texas District 3', 'Representative')",4,61895.74,0.8699425840938326
+435,"NIERMANN, TOM",H8KS03114,DEM,KS,810073.47,Tom Niermann,U.S. House Kansas District 3,Representative,0.0,"('U.S. House Kansas District 3', 'Representative')",5,7093256.309999999,0.11420332701892738
+436,"NORDAL, CRAIG",H8CA49157,REP,CA,11821.14,Craig Nordal,U.S. House California District 49,Representative,0.0,"('U.S. House California District 49', 'Representative')",9,19966128.429999996,0.0005920596995779217
+438,"OAKS, RICHONDA",H8MO05136,REP,MO,0.0,Richonda Oaks,U.S. House Missouri District 5,Representative,0.0,"('U.S. House Missouri District 5', 'Representative')",2,102642.92,0.0
+439,"OATMAN, LAURA",H8CA48043,DEM,CA,244289.89,Laura Oatman,U.S. House California District 48,Representative,0.0,"('U.S. House California District 48', 'Representative')",5,3344733.0700000003,0.07303718559520207
+440,"OH, THOMAS",H8VA08159,REP,VA,74602.45,Thomas Oh,U.S. House Virginia District 8,Representative,1.0,"('U.S. House Virginia District 8', 'Representative')",1,74602.45,1.0
+441,"OHEVZION, MICHAEL",H8FL27201,REP,FL,183070.0,Michael Ohevzion,U.S. House Florida District 27,Representative,0.0,"('U.S. House Florida District 27', 'Representative')",7,3451467.7,0.053041203311854836
+442,"OLSEN, MARTIN",H8TN01079,DEM,TN,163457.48,Martin Olsen,U.S. House Tennessee District 1,Representative,1.0,"('U.S. House Tennessee District 1', 'Representative')",1,163457.48,1.0
+443,"OLSON, CRAIG",H8ME02177,DEM,ME,119834.0,Craig Olson,U.S. House Maine District 2,Representative,0.0,"('U.S. House Maine District 2', 'Representative')",3,6606157.779999999,0.01813974234203047
+444,"ORLINSKI, JOHN",S8WA00327,REP,WA,0.0,John Orlinski,U.S. Senate Washington,Senator,0.0,"('U.S. Senate Washington', 'Senator')",2,1933255.94,0.0
+445,"OSMACK, MARK",H8MO02216,DEM,MO,199663.57,Mark Osmack,U.S. House Missouri District 2,Representative,0.0,"('U.S. House Missouri District 2', 'Representative')",1,199663.57,1.0
+446,"PALLANT, MARY",H6CA24246,DEM,CA,8295.09,Mary Pallant,U.S. House California District 25,Representative,0.0,"('U.S. House California District 25', 'Representative')",3,1720933.32,0.004820111217324795
+447,"PALMER, SUSAN MORAN",H8OH16157,DEM,OH,473098.14,Susan Moran Palmer,U.S. House Ohio District 16,Representative,1.0,"('U.S. House Ohio District 16', 'Representative')",4,938238.0800000001,0.504241034429129
+448,"PANDA, CHETAN",H8TX25134,DEM,TX,116152.57,Chetan Panda,U.S. House Texas District 25,Representative,0.0,"('U.S. House Texas District 25', 'Representative')",3,156507.77000000002,0.7421520989021823
+449,"PANNU, JASDEEP",S8VT00125,REP,VT,0.0,Jasdeep Pannu,U.S. Senate Vermont,Senator,0.0,"('U.S. Senate Vermont', 'Senator')",2,168278.39,0.0
+450,"PAPPAS, ANTHONY",H8NY14133,REP,NY,8161.0,Anthony Pappas,U.S. House New York District 14,Representative,1.0,"('U.S. House New York District 14', 'Representative')",1,8161.0,1.0
+452,"PARKER, GRAYSON",H8NC07127,DEM,NC,2955.05,Grayson Parker,U.S. House North Carolina District 7,Representative,0.0,"('U.S. House North Carolina District 7', 'Representative')",1,2955.05,1.0
+453,"PARNELL, ARCHIE",H8SC05174,DEM,SC,2039416.09,Archie Parnell,U.S. House South Carolina District 5,Representative,1.0,"('U.S. House South Carolina District 5', 'Representative')",2,2039416.09,1.0
+454,"PATE, AVA",H6TX18158,REP,TX,10883.41,Ava Pate,U.S. House Texas District 18,Representative,1.0,"('U.S. House Texas District 18', 'Representative')",1,10883.41,1.0
+455,"PATTERSON, KEN",S8MO00285,REP,MO,0.0,Ken Patterson,U.S. Senate Missouri,Senator,0.0,"('U.S. Senate Missouri', 'Senator')",6,656083.49,0.0
+456,"PATTON, JACKIE",H8OH12214,DEM,OH,33439.54,Jackie Patton,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.00459290752200454
+457,"PATTON, JACKIE",H8OH12214,DEM,OH,33439.54,Jackie Patton,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.00459290752200454
+458,"PAYNE, RACHEL",H8CA48159,DEM,CA,388067.99,Rachel Payne,U.S. House California District 48,Representative,0.0,"('U.S. House California District 48', 'Representative')",5,3344733.0700000003,0.11602360543527618
+459,"PAYNE, TOM",H6WV02119,DEM,WV,0.0,Tom Payne,U.S. House West Virginia District 1,Representative,0.0,"('U.S. House West Virginia District 1', 'Representative')",2,652981.25,0.0
+460,"PAYTON, PHILIP",H8WV03147,REP,WV,0.0,Philip Payton,U.S. House West Virginia District 3,Representative,0.0,"('U.S. House West Virginia District 3', 'Representative')",4,201678.56,0.0
+461,"PEACOCK, JULIA",H8CA42228,DEM,CA,159046.35,Julia Peacock,U.S. House California District 42,Representative,1.0,"('U.S. House California District 42', 'Representative')",2,295257.65,0.5386697008527975
+462,"PECHEFSKY, DAVID",H8NY01163,DEM,NY,303457.9,David Pechefsky,U.S. House New York District 1,Representative,0.0,"('U.S. House New York District 1', 'Representative')",2,5379239.74,0.05641278594510086
+463,"PEDIGO, BRIAN",H0KY02061,DEM,KY,0.0,Brian Pedigo,U.S. House Kentucky District 2,Representative,0.0,"('U.S. House Kentucky District 2', 'Representative')",4,190886.86000000002,0.0
+464,"PELLETIER, PAUL",H8VA10171,DEM,VA,651741.75,Paul Pelletier,U.S. House Virginia District 10,Representative,0.0,"('U.S. House Virginia District 10', 'Representative')",3,7870400.1899999995,0.08280922624850669
+465,"PELZER, KIMBERLIN BROWN",H8CA36170,REP,CA,844037.02,Kimberlin Brown Pelzer,U.S. House California District 36,Representative,1.0,"('U.S. House California District 36', 'Representative')",4,878444.34,0.9608315308856109
+466,"PENNINGTON, ALONZO",H8KY01082,DEM,KY,0.0,Alonzo Pennington,U.S. House Kentucky District 1,Representative,0.0,"('U.S. House Kentucky District 1', 'Representative')",2,51853.84,0.0
+467,"PENSLER, SANDY",S8MI00414,REP,MI,5235246.9,Sandy Pensler,U.S. Senate Michigan,Senator,0.0,"('U.S. Senate Michigan', 'Senator')",2,17786713.42,0.2943346967131829
+468,"PEREZ WILLIAMS, JUANITA",H8NY24132,DEM,NY,181806.44,Juanita Perez Williams,U.S. House New York District 24,Representative,0.0,"('U.S. House New York District 24', 'Representative')",2,2917440.85,0.06231709547770266
+469,"PERKINS, JO RAE",H6OR04203,REP,OR,14623.38,Jo Rae Perkins,U.S. House Oregon District 4,Representative,0.0,"('U.S. House Oregon District 4', 'Representative')",3,14623.38,1.0
+470,"PERRY, CHRISTY",H8ID01173,REP,ID,31792.0,Christy Perry,U.S. House Idaho District 1,Representative,0.0,"('U.S. House Idaho District 1', 'Representative')",4,1111129.81,0.028612318483292244
+471,"PERSSON, CARL",H8NC12127,REP,NC,4270.0,Carl Persson,U.S. House North Carolina District 12,Representative,0.0,"('U.S. House North Carolina District 12', 'Representative')",3,13304.0,0.3209561034275406
+472,"PETERS, JOE",H8PA11103,REP,PA,83384.0,Joe Peters,U.S. House Pennsylvania District 8,Representative,0.0,"('U.S. House Pennsylvania District 8', 'Representative')",1,83384.0,1.0
+473,"PETERS, JOHN",H8OH12149,DEM,OH,0.0,John Peters,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.0
+474,"PETERSEN, AUSTIN",S8MO00145,REP,MO,650946.49,Austin Petersen,U.S. Senate Missouri,Senator,0.0,"('U.S. Senate Missouri', 'Senator')",6,656083.49,0.9921702038257356
+475,"PETERSON, DAVID",H6CA01202,DEM,CA,17275.0,David Peterson,U.S. House California District 1,Representative,0.0,"('U.S. House California District 1', 'Representative')",2,1114859.95,0.015495219825593341
+476,"PFEIFER, PETER",S8MO00293,REP,MO,0.0,Peter Pfeifer,U.S. Senate Missouri,Senator,0.0,"('U.S. Senate Missouri', 'Senator')",6,656083.49,0.0
+477,"PHAM, ETHAN",H8GA07177,DEM,GA,449570.44,Ethan Pham,U.S. House Georgia District 7,Representative,0.0,"('U.S. House Georgia District 7', 'Representative')",5,5103604.22,0.0880888134385938
+478,"PHOENIX, JESS",H8CA25082,DEM,CA,495219.91,Jess Phoenix,U.S. House California District 25,Representative,0.0,"('U.S. House California District 25', 'Representative')",3,1720933.32,0.2877624044143674
+479,"PIATT, PATTI",H8KY04144,DEM,KY,36119.61,Patti Piatt,U.S. House Kentucky District 4,Representative,0.0,"('U.S. House Kentucky District 4', 'Representative')",2,36119.61,1.0
+480,"PIKUS, PATRICK",H8OH07131,DEM,OH,5525.0,Patrick Pikus,U.S. House Ohio District 7,Representative,0.0,"('U.S. House Ohio District 7', 'Representative')",1,5525.0,1.0
+481,"PINJUV, GUY",H8NV03226,DEM,NV,1600.0,Guy Pinjuv,U.S. House Nevada District 3,Representative,0.0,"('U.S. House Nevada District 3', 'Representative')",10,5667748.680000001,0.00028229903800180495
+482,"PLUMMER, LETITIA",H8TX22206,DEM,TX,131621.92,Letitia Plummer,U.S. House Texas District 22,Representative,0.0,"('U.S. House Texas District 22', 'Representative')",5,1807126.53,0.07283492207930786
+483,"POLCE, NICK",H8WI01149,REP,WI,33623.0,Nick Polce,U.S. House Wisconsin District 1,Representative,0.0,"('U.S. House Wisconsin District 1', 'Representative')",2,33623.0,1.0
+484,"POLEN, MICHAEL",H8OR04167,REP,OR,0.0,Michael Polen,U.S. House Oregon District 4,Representative,0.0,"('U.S. House Oregon District 4', 'Representative')",3,14623.38,0.0
+485,"POUNDS, BUNNI",H8TX05128,REP,TX,905242.7,Bunni Pounds,U.S. House Texas District 5,Representative,0.0,"('U.S. House Texas District 5', 'Representative')",4,2286881.9,0.3958414730555172
+486,"PRICE, PHILLIP",H8NC11103,DEM,NC,237942.85,Phillip Price,U.S. House North Carolina District 11,Representative,1.0,"('U.S. House North Carolina District 11', 'Representative')",3,314427.19,0.7567502352452408
+487,"PROSCH, MATT",H8MN07094,REP,MN,600.0,Matt Prosch,U.S. House Minnesota District 7,Representative,0.0,"('U.S. House Minnesota District 7', 'Representative')",1,600.0,1.0
+488,"PROSS, GORDON ALLEN",H8WA04048,REP,WA,0.0,Gordon Allen Pross,U.S. House Washington District 8,Representative,0.0,"('U.S. House Washington District 8', 'Representative')",5,6777897.6899999995,0.0
+489,"PRUITT, AUTRY",H8TX08106,REP,TX,13191.0,Autry Pruitt,U.S. House Texas District 21,Representative,0.0,"('U.S. House Texas District 21', 'Representative')",11,5902529.11,0.0022348047344064688
+490,"PUREVAL, AFTAB",H8OH01118,DEM,OH,4144106.29,Aftab Pureval,U.S. House Ohio District 1,Representative,1.0,"('U.S. House Ohio District 1', 'Representative')",1,4144106.29,1.0
+491,"PYLE, DENNIS",H8KS02249,REP,KS,149876.59,Dennis Pyle,U.S. House Kansas District 2,Representative,0.0,"('U.S. House Kansas District 2', 'Representative')",4,2172365.42,0.06899234752134842
+492,"QUDRAT, OMAR",H8CA52102,REP,CA,375254.09,Omar Qudrat,U.S. House California District 52,Representative,1.0,"('U.S. House California District 52', 'Representative')",3,1041020.89,0.36046739657645105
+493,"QUICK, LAURA",H8PA09081,DEM,PA,24306.42,Laura Quick,U.S. House Pennsylvania District 9,Representative,0.0,"('U.S. House Pennsylvania District 9', 'Representative')",4,1852313.19,0.013122197763975324
+494,"QUINTERO, NORMAN",H8CA42244,DEM,CA,136211.3,Norman Quintero,U.S. House California District 42,Representative,0.0,"('U.S. House California District 42', 'Representative')",2,295257.65,0.46133029914720236
+495,"RAMSEY, GEORGE",H8IA01110,DEM,IA,71612.69,George Ramsey,U.S. House Iowa District 1,Representative,0.0,"('U.S. House Iowa District 1', 'Representative')",3,5014217.350000001,0.014281927766852786
+496,"RAPINI, DOMINIC",S8CT00113,REP,CT,198123.57,Dominic Rapini,U.S. Senate Connecticut,Senator,0.0,"('U.S. Senate Connecticut', 'Senator')",1,198123.57,1.0
+497,"RATIGAN, DYLAN",H8NY21344,DEM,NY,198480.76,Dylan Ratigan,U.S. House New York District 21,Representative,0.0,"('U.S. House New York District 21', 'Representative')",3,715162.9299999999,0.27753222611804
+498,"RATTERREE, TROY",H8TX06340,REP,TX,52860.0,Troy Ratterree,U.S. House Texas District 6,Representative,0.0,"('U.S. House Texas District 6', 'Representative')",7,61596.0,0.8581726086109488
+499,"RAYBOULD, JANE",S8NE00182,DEM,NE,2106074.58,Jane Raybould,U.S. Senate Nebraska,Senator,1.0,"('U.S. Senate Nebraska', 'Senator')",2,2141281.81,0.9835578718151069
+500,"REDDICK, RACHEL",H8PA08141,DEM,PA,501766.01,Rachel Reddick,U.S. House Pennsylvania District 1,Representative,0.0,"('U.S. House Pennsylvania District 1', 'Representative')",2,556391.87,0.9018212469567537
+502,"REED, WENDY",H6CA23206,DEM,CA,27394.25,Wendy Reed,U.S. House California District 23,Representative,0.0,"('U.S. House California District 23', 'Representative')",3,155492.97999999998,0.17617676373557187
+503,"REEL, MATT",H8TN07100,DEM,TN,196825.78,Matt Reel,U.S. House Tennessee District 7,Representative,0.0,"('U.S. House Tennessee District 7', 'Representative')",2,691307.28,0.2847153294841622
+504,"REMMER, LISA",H8CA12270,REP,CA,22442.61,Lisa Remmer,U.S. House California District 12,Representative,1.0,"('U.S. House California District 12', 'Representative')",1,22442.61,1.0
+505,"RHEINHART, ALLEN",S6NV00309,DEM,NV,0.0,Allen Rheinhart,U.S. Senate Nevada,Senator,0.0,"('U.S. Senate Nevada', 'Senator')",4,28399690.35,0.0
+506,"RICH, MICK",S8NM00200,REP,NM,968899.39,Mick Rich,U.S. Senate New Mexico,Senator,1.0,"('U.S. Senate New Mexico', 'Senator')",1,968899.39,1.0
+507,"RIEGER, CHRIS",H8PA03126,DEM,PA,28536.85,Chris Rieger,U.S. House Pennsylvania District 16,Representative,0.0,"('U.S. House Pennsylvania District 16', 'Representative')",1,28536.85,1.0
+508,"RITTEREISER, JASON",H8WA08163,DEM,WA,1044900.4,Jason Rittereiser,U.S. House Washington District 8,Representative,0.0,"('U.S. House Washington District 8', 'Representative')",5,6777897.6899999995,0.15416290534181848
+509,"ROBERTS, KEVIN",H8TX02117,REP,TX,1086643.11,Kevin Roberts,U.S. House Texas District 2,Representative,0.0,"('U.S. House Texas District 2', 'Representative')",7,3785546.39,0.2870505332784999
+510,"ROBERTS, SHAWNA",H8OH06133,DEM,OH,23027.73,Shawna Roberts,U.S. House Ohio District 6,Representative,1.0,"('U.S. House Ohio District 6', 'Representative')",2,23824.73,0.9665473648599585
+511,"ROBERTSON, ANNABELLE",H8SC02114,DEM,SC,51246.43,Annabelle Robertson,U.S. House South Carolina District 2,Representative,0.0,"('U.S. House South Carolina District 2', 'Representative')",1,51246.43,1.0
+512,"RODRIGUEZ, GEORGE",H8TX32122,DEM,TX,133793.68,George Rodriguez,U.S. House Texas District 32,Representative,0.0,"('U.S. House Texas District 32', 'Representative')",4,6811149.959999999,0.01964333200498202
+513,"RODRIGUEZ, JUNIUS",H6IL18161,DEM,IL,78311.3,Junius Rodriguez,U.S. House Illinois District 18,Representative,1.0,"('U.S. House Illinois District 18', 'Representative')",3,98894.39,0.7918679714794743
+514,"RODRIGUEZ-AGUILERA, BETTINA",H8FL27094,REP,FL,86042.82,Bettina Rodriguez-Aguilera,U.S. House Florida District 27,Representative,0.0,"('U.S. House Florida District 27', 'Representative')",7,3451467.7,0.0249293423780266
+516,"ROGERS, WENDY",H2AZ09035,REP,AZ,1423836.68,Wendy Rogers,U.S. House Arizona District 1,Representative,1.0,"('U.S. House Arizona District 1', 'Representative')",3,2460954.9,0.5785708141177232
+517,"ROLDAN-JOHNSON, DANIEL",H8IL14182,DEM,IL,0.0,Daniel Roldan-Johnson,U.S. House Illinois District 14,Representative,0.0,"('U.S. House Illinois District 14', 'Representative')",6,279346.48,0.0
+518,"ROMLEY, KEN",H8NC02094,DEM,NC,655818.16,Ken Romley,U.S. House North Carolina District 2,Representative,0.0,"('U.S. House North Carolina District 2', 'Representative')",3,2383565.77,0.2751416253137416
+519,"ROSE, MAX",H8NY11113,DEM,NY,4679140.33,Max Rose,U.S. House New York District 11,Representative,1.0,"('U.S. House New York District 11', 'Representative')",4,4847789.35,0.9652111492839516
+520,"ROSEN, JACKY",S8NV00156,DEM,NV,26242152.35,Jacky Rosen,U.S. Senate Nevada,Senator,1.0,"('U.S. Senate Nevada', 'Senator')",4,28399690.35,0.9240295237937339
+521,"ROSENDALE, MATT",S8MT00234,REP,MT,5994022.92,Matt Rosendale,U.S. Senate Montana,Senator,1.0,"('U.S. Senate Montana', 'Senator')",2,7489379.92,0.8003363407954873
+522,"ROSSI, DINO",H8WA08205,REP,WA,4846553.35,Dino Rossi,U.S. House Washington District 8,Representative,1.0,"('U.S. House Washington District 8', 'Representative')",5,6777897.6899999995,0.715052597673542
+523,"ROY, CHIP",H8TX21307,REP,TX,1895147.95,Chip Roy,U.S. House Texas District 21,Representative,1.0,"('U.S. House Texas District 21', 'Representative')",11,5902529.11,0.32107388454709374
+525,"RUSSELL, JOHN",H8OH12271,DEM,OH,140127.85,John Russell,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.01924650447665619
+526,"RUSSELL, JOHN",H8OH12271,DEM,OH,140127.85,John Russell,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.01924650447665619
+527,"RYAN, JEREMY",H4WI01148,REP,WI,0.0,Jeremy Ryan,U.S. House Wisconsin District 1,Representative,0.0,"('U.S. House Wisconsin District 1', 'Representative')",2,33623.0,0.0
+528,"RYMAN, FRED",S6MO00453,REP,MO,0.0,Fred Ryman,U.S. Senate Missouri,Senator,0.0,"('U.S. Senate Missouri', 'Senator')",6,656083.49,0.0
+529,"SAAD, FAYROUZ",H8MI11262,DEM,MI,769824.46,Fayrouz Saad,U.S. House Michigan District 11,Representative,0.0,"('U.S. House Michigan District 11', 'Representative')",7,8157890.890000001,0.09436562346569946
+530,"SAAVEDRA, JAZMINA",H8CA44125,REP,CA,0.0,Jazmina Saavedra,U.S. House California District 44,Representative,0.0,"('U.S. House California District 44', 'Representative')",2,44730.13,0.0
+531,"SACCONE, RICK",H8PA18231,REP,PA,2040980.87,Rick Saccone,U.S. House Pennsylvania District 14,Representative,0.0,"('U.S. House Pennsylvania District 14', 'Representative')",4,3068491.45,0.6651414557469274
+532,"SACCONE, RICK",S8PA00239,REP,PA,51207.0,Rick Saccone,U.S. House Pennsylvania District 14,Representative,0.0,"('U.S. House Pennsylvania District 14', 'Representative')",4,3068491.45,0.016688004784891936
+533,"SALAZAR, MARIA ELVIRA",H8FL27185,REP,FL,2069164.06,Maria Elvira Salazar,U.S. House Florida District 27,Representative,1.0,"('U.S. House Florida District 27', 'Representative')",7,3451467.7,0.599502657956208
+534,"SALERNO, LILLIAN",H8TX32148,DEM,TX,698945.72,Lillian Salerno,U.S. House Texas District 32,Representative,0.0,"('U.S. House Texas District 32', 'Representative')",4,6811149.959999999,0.10261787276813975
+535,"SAN MIGUEL, EDNA",H6AZ03179,REP,AZ,13088.28,Edna San Miguel,U.S. House Arizona District 3,Representative,0.0,"('U.S. House Arizona District 3', 'Representative')",2,53434.99,0.24493838213500183
+536,"SANBORN, ANDY",H8NH01160,REP,NH,882961.37,Andy Sanborn,U.S. House New Hampshire District 1,Representative,0.0,"('U.S. House New Hampshire District 1', 'Representative')",5,2480153.7399999998,0.3560107406890026
+537,"SANCHEZ, IVAN",H8TX07165,DEM,TX,64535.97,Ivan Sanchez,U.S. House Texas District 7,Representative,0.0,"('U.S. House Texas District 7', 'Representative')",3,2005288.95,0.03218287818321644
+538,"SANGARI, SARGIS",H8IL09190,REP,IL,32169.0,Sargis Sangari,U.S. House Illinois District 9,Representative,0.0,"('U.S. House Illinois District 9', 'Representative')",1,32169.0,1.0
+539,"SANTOPIETRO, JUSTIN",H8VA09058,DEM,VA,26460.01,Justin Santopietro,U.S. House Virginia District 9,Representative,0.0,"('U.S. House Virginia District 9', 'Representative')",1,26460.01,1.0
+540,"SANTOS, MANNY",H8CT05187,REP,CT,76037.51,Manny Santos,U.S. House Connecticut District 5,Representative,1.0,"('U.S. House Connecticut District 5', 'Representative')",1,76037.51,1.0
+541,"SAREGA, ANDREW",H8CA39216,REP,CA,35835.0,Andrew Sarega,U.S. House California District 39,Representative,0.0,"('U.S. House California District 39', 'Representative')",7,8809080.65,0.004067961393905504
+542,"SARVER, JENIFER",H8TX21315,REP,TX,213468.8,Jenifer Sarver,U.S. House Texas District 21,Representative,0.0,"('U.S. House Texas District 21', 'Representative')",11,5902529.11,0.03616564967690604
+543,"SBAIH, JESSE",S8NV00149,DEM,NV,2157538.0,Jesse Sbaih,U.S. Senate Nevada,Senator,0.0,"('U.S. Senate Nevada', 'Senator')",4,28399690.35,0.0759704762062661
+544,"SCANLON, MARY GAY",H8PA07200,DEM,PA,1935937.32,Mary Gay Scanlon,U.S. House Pennsylvania District 5,Representative,1.0,"('U.S. House Pennsylvania District 5', 'Representative')",8,3880740.18,0.4988577514096808
+545,"SCHAFFNER, PAUL",S8ND00112,REP,ND,0.0,Paul Schaffner,U.S. House North Dakota At-large District,Representative,0.0,"('U.S. House North Dakota At-large District', 'Representative')",5,2970728.85,0.0
+546,"SCHAFRANEK, ROBERT",H6TX29080,REP,TX,0.0,Robert Schafranek,U.S. House Texas District 29,Representative,0.0,"('U.S. House Texas District 29', 'Representative')",4,64005.75,0.0
+547,"SCHEINBERG, AARON",H8WV02107,DEM,WV,588749.56,Aaron Scheinberg,U.S. House West Virginia District 2,Representative,0.0,"('U.S. House West Virginia District 2', 'Representative')",2,1293947.01,0.4550028366308448
+548,"SCHILLER, JILL",H8OH02124,DEM,OH,606159.38,Jill Schiller,U.S. House Ohio District 2,Representative,1.0,"('U.S. House Ohio District 2', 'Representative')",2,663937.13,0.9129770766096482
+549,"SCHNEIDER, JOSEPH",H8MA06133,REP,MA,263794.8,Joseph Schneider,U.S. House Massachusetts District 6,Representative,1.0,"('U.S. House Massachusetts District 6', 'Representative')",1,263794.8,1.0
+550,"SCHOOLEY, TRAVIS",H2PA09092,REP,PA,23704.0,Travis Schooley,U.S. House Pennsylvania District 13,Representative,0.0,"('U.S. House Pennsylvania District 13', 'Representative')",4,1895910.83,0.012502697713900394
+551,"SCHOONOVER, JOSHUA",H8CA50155,REP,CA,12322.56,Joshua Schoonover,U.S. House California District 49,Representative,0.0,"('U.S. House California District 49', 'Representative')",9,19966128.429999996,0.0006171732313153313
+552,"SCOTT, GEORGE",H8PA04090,DEM,PA,2219555.91,George Scott,U.S. House Pennsylvania District 10,Representative,1.0,"('U.S. House Pennsylvania District 10', 'Representative')",2,2465412.29,0.9002777827476475
+553,"SCOTT, ZACH",H8OH12164,DEM,OH,58967.62,Zach Scott,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.00809917915894493
+554,"SCOTT, ZACH",H8OH12164,DEM,OH,58967.62,Zach Scott,U.S. House Ohio District 12,Representative,0.0,"('U.S. House Ohio District 12', 'Representative')",18,7280690.9,0.00809917915894493
+555,"SEDILLO LOPEZ, ANTOINETTE",H8NM01323,DEM,NM,1067042.16,Antoinette Sedillo Lopez,U.S. House New Mexico District 1,Representative,0.0,"('U.S. House New Mexico District 1', 'Representative')",5,4358793.38,0.24480218881125307
+556,"SEEBERGER, RICK",H8TX16133,REC,TX,50106.01,Rick Seeberger,U.S. House Texas District 16,Representative,1.0,"('U.S. House Texas District 16', 'Representative')",4,2549109.5199999996,0.01965627981335224
+557,"SERGENT, TALLEY",H8WV02115,DEM,WV,705197.45,Talley Sergent,U.S. House West Virginia District 2,Representative,1.0,"('U.S. House West Virginia District 2', 'Representative')",2,1293947.01,0.5449971633691553
+558,"SESSIONS, RANE EIR OLIVIA",H8KY02098,DEM,KY,5753.2,Rane Eir Olivia Sessions,U.S. House Kentucky District 2,Representative,0.0,"('U.S. House Kentucky District 2', 'Representative')",4,190886.86000000002,0.030139319175767256
+559,"SHEDD, TIFFANY",H8AZ01237,REP,AZ,598230.31,Tiffany Shedd,U.S. House Arizona District 1,Representative,0.0,"('U.S. House Arizona District 1', 'Representative')",3,2460954.9,0.24308869292972418
+560,"SHEEHAN, MOLLY",H8PA07119,DEM,PA,238060.53,Molly Sheehan,U.S. House Pennsylvania District 5,Representative,0.0,"('U.S. House Pennsylvania District 5', 'Representative')",8,3880740.18,0.061344104206430015
+561,"SHEETS, KENNETH",H8TX05094,REP,TX,196075.0,Kenneth Sheets,U.S. House Texas District 5,Representative,0.0,"('U.S. House Texas District 5', 'Representative')",4,2286881.9,0.08573901433213495
+562,"SHEPHERD, RICK",H6NV02255,DEM,NV,37136.46,Rick Shepherd,U.S. House Nevada District 2,Representative,0.0,"('U.S. House Nevada District 2', 'Representative')",2,206176.46,0.18011978671085924
+563,"SHERMAN, HOWARD",S8MS00246,DEM,MS,1207911.0,Howard Sherman,U.S. Senate Mississippi,Senator,0.0,"('U.S. Senate Mississippi', 'Senator')",1,1207911.0,1.0
+564,"SHOCKLEE, LEVII",H8TX06217,DEM,TX,8736.0,Levii Shocklee,U.S. House Texas District 6,Representative,0.0,"('U.S. House Texas District 6', 'Representative')",7,61596.0,0.14182739138905123
+565,"SHOEMAKER, ED",H8FL15214,REP,FL,21952.0,Ed Shoemaker,U.S. House Florida District 15,Representative,0.0,"('U.S. House Florida District 15', 'Representative')",3,316694.25,0.06931606746885995
+566,"SHORT, GRANT",H8KY02072,DEM,KY,1837.65,Grant Short,U.S. House Kentucky District 2,Representative,0.0,"('U.S. House Kentucky District 2', 'Representative')",4,190886.86000000002,0.009626906744654922
+567,"SIDIE, JAY",H6KS03241,DEM,KS,107632.33,Jay Sidie,U.S. House Kansas District 3,Representative,0.0,"('U.S. House Kansas District 3', 'Representative')",5,7093256.309999999,0.015173895499625618
+568,"SINGH, HIRSH",H8NJ02216,REP,NJ,165993.74,Hirsh Singh,U.S. House New Jersey District 2,Representative,0.0,"('U.S. House New Jersey District 2', 'Representative')",5,2492102.02,0.06660792321816744
+569,"SINGH, HIRSH",S8NJ00483,REP,NJ,0.0,Hirsh Singh,U.S. House New Jersey District 2,Representative,0.0,"('U.S. House New Jersey District 2', 'Representative')",5,2492102.02,0.0
+570,"SKINNER, NANCY",H8MI11395,DEM,MI,0.0,Nancy Skinner,U.S. House Michigan District 11,Representative,0.0,"('U.S. House Michigan District 11', 'Representative')",7,8157890.890000001,0.0
+572,"SLOTKIN, ELISSA",H8MI08102,DEM,MI,7467572.93,Elissa Slotkin,U.S. House Michigan District 8,Representative,1.0,"('U.S. House Michigan District 8', 'Representative')",1,7467572.93,1.0
+573,"SMALLING, DAVID",H8TX35026,REP,TX,46669.0,David Smalling,U.S. House Texas District 35,Representative,1.0,"('U.S. House Texas District 35', 'Representative')",1,46669.0,1.0
+574,"SMITH, AJA",H8CA41170,REP,CA,43984.88,Aja Smith,U.S. House California District 41,Representative,1.0,"('U.S. House California District 41', 'Representative')",1,43984.88,1.0
+575,"SMITH, CHRISTINA",S8MO00301,REP,MO,5137.0,Christina Smith,U.S. Senate Missouri,Senator,0.0,"('U.S. Senate Missouri', 'Senator')",6,656083.49,0.007829796174264346
+578,"SMITH, STEVE",H8AZ01229,REP,AZ,438887.91,Steve Smith,U.S. House Arizona District 1,Representative,0.0,"('U.S. House Arizona District 1', 'Representative')",3,2460954.9,0.1783404929525527
+579,"SMITH, TOBY",H8SC01132,DEM,SC,15550.0,Toby Smith,U.S. House South Carolina District 1,Representative,0.0,"('U.S. House South Carolina District 1', 'Representative')",2,2484412.54,0.006259024920233255
+580,"SNYDER, MICHAEL",H8ID01132,REP,ID,142729.36,Michael Snyder,U.S. House Idaho District 1,Representative,0.0,"('U.S. House Idaho District 1', 'Representative')",4,1111129.81,0.12845426224322068
+581,"SOLOMON, ROBERT",H8PA18157,DEM,PA,285769.74,Robert Solomon,U.S. House Pennsylvania District 14,Representative,0.0,"('U.S. House Pennsylvania District 14', 'Representative')",4,3068491.45,0.09313036867024674
+582,"SPANBERGER, ABIGAIL",H8VA07094,DEM,VA,7336619.41,Abigail Spanberger,U.S. House Virginia District 7,Representative,1.0,"('U.S. House Virginia District 7', 'Representative')",1,7336619.41,1.0
+583,"SPAULDING, STEPHANY ROSE",H8CO05130,DEM,CO,368323.3,Stephany Rose Spaulding,U.S. House Colorado District 5,Representative,1.0,"('U.S. House Colorado District 5', 'Representative')",1,368323.3,1.0
+584,"SPEARMAN, PATRICIA",H8NV04042,DEM,NV,183092.07,Patricia Spearman,U.S. House Nevada District 4,Representative,0.0,"('U.S. House Nevada District 4', 'Representative')",6,1314661.66,0.13926934630466065
+585,"SPERLING, PAUL",H8NY11121,DEM,NY,0.0,Paul Sperling,U.S. House New York District 11,Representative,0.0,"('U.S. House New York District 11', 'Representative')",4,4847789.35,0.0
+586,"SPOERER, CARL",H8IL15056,DEM,IL,26195.74,Carl Spoerer,U.S. House Illinois District 15,Representative,0.0,"('U.S. House Illinois District 15', 'Representative')",2,79801.63,0.3282607134716421
+587,"ST. CLAIR, LUCAS",H8ME02201,DEM,ME,710128.97,Lucas St. Clair,U.S. House Maine District 2,Representative,0.0,"('U.S. House Maine District 2', 'Representative')",3,6606157.779999999,0.1074950059700209
+589,"STAUBER, PETE",H8MN08043,REP,MN,1777703.02,Pete Stauber,U.S. House Minnesota District 8,Representative,1.0,"('U.S. House Minnesota District 8', 'Representative')",1,1777703.02,1.0
+590,"STEVENS, HALEY",H8MI11254,DEM,MI,4199606.98,Haley Stevens,U.S. House Michigan District 11,Representative,1.0,"('U.S. House Michigan District 11', 'Representative')",7,8157890.890000001,0.5147907757810181
+591,"STOCKSTILL, DANNY",H8OK01140,REP,OK,32192.0,Danny Stockstill,U.S. House Oklahoma District 1,Representative,0.0,"('U.S. House Oklahoma District 1', 'Representative')",7,1488296.22,0.021630102641798016
+592,"STOLTZ, ERIC",H8NV03283,DEM,NV,0.0,Eric Stoltz,U.S. House Nevada District 3,Representative,0.0,"('U.S. House Nevada District 3', 'Representative')",10,5667748.680000001,0.0
+593,"STOVALL, ROBERT",H8TX21273,REP,TX,159554.5,Robert Stovall,U.S. House Texas District 21,Representative,0.0,"('U.S. House Texas District 21', 'Representative')",11,5902529.11,0.027031548176473116
+594,"STOVER, LINDSEY DAVIS",H8VA10098,DEM,VA,1045706.61,Lindsey Davis Stover,U.S. House Virginia District 10,Representative,0.0,"('U.S. House Virginia District 10', 'Representative')",3,7870400.1899999995,0.13286574821553007
+595,"STUMP, BOB",H6AZ03112,REP,AZ,21980.0,Bob Stump,U.S. House Arizona District 8,Representative,0.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.0028913378069941225
+596,"SUDDARTH, JOHN",H8VA01295,DEM,VA,92041.4,John Suddarth,U.S. House Virginia District 1,Representative,0.0,"('U.S. House Virginia District 1', 'Representative')",2,598954.35,0.15367014197325723
+597,"SWANSON, VICTOR",H8IL14141,DEM,IL,80409.88,Victor Swanson,U.S. House Illinois District 14,Representative,0.0,"('U.S. House Illinois District 14', 'Representative')",6,279346.48,0.2878499847214828
+598,"SYLVESTER, CHRISTOPHER",H8AZ08091,IND,AZ,8403.13,Christopher Sylvester,U.S. House Arizona District 8,Representative,0.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.001105381595363354
+599,"TANOOS, WILLIAM",H8IN08141,DEM,IN,229896.74,William Tanoos,U.S. House Indiana District 8,Representative,1.0,"('U.S. House Indiana District 8', 'Representative')",1,229896.74,1.0
+600,"TAPIO, NEAL",H8SD00024,REP,SD,182010.0,Neal Tapio,U.S. House South Dakota At-large District,Representative,0.0,"('U.S. House South Dakota At-large District', 'Representative')",3,2535713.92,0.07177860190158991
+601,"TAYLOR, BLAINE",S2MD00438,REP,MD,0.0,Blaine Taylor,U.S. Senate Maryland,Senator,0.0,"('U.S. Senate Maryland', 'Senator')",6,41556.17,0.0
+602,"TEIJEIRO, ANNETTE",H6NV03097,REP,NV,125877.07,Annette Teijeiro,U.S. House Nevada District 3,Representative,0.0,"('U.S. House Nevada District 3', 'Representative')",10,5667748.680000001,0.022209359854678666
+603,"TEMPLE, SAMUEL",H8TX21240,REP,TX,14581.7,Samuel Temple,U.S. House Texas District 21,Representative,0.0,"('U.S. House Texas District 21', 'Representative')",11,5902529.11,0.0024704156012201354
+604,"THOMAS, JARED",H8IN04181,REP,IN,46468.26,Jared Thomas,U.S. House Indiana District 4,Representative,0.0,"('U.S. House Indiana District 4', 'Representative')",5,166520.63,0.27905407275963345
+605,"THOMAS, KATHI",H8TX25126,DEM,TX,40355.2,Kathi Thomas,U.S. House Texas District 25,Representative,0.0,"('U.S. House Texas District 25', 'Representative')",3,156507.77000000002,0.25784790109781763
+606,"THORBURN, ANDY",H8CA39182,DEM,CA,3161418.81,Andy Thorburn,U.S. House California District 39,Representative,0.0,"('U.S. House California District 39', 'Representative')",7,8809080.65,0.35888181021478105
+607,"TIEGEL, MARC",H8NC08117,DEM,NC,52578.08,Marc Tiegel,U.S. House North Carolina District 8,Representative,0.0,"('U.S. House North Carolina District 8', 'Representative')",2,67476.3,0.7792081071428042
+608,"TILLEMANN, LEVI",H8CO06245,DEM,CO,351801.95,Levi Tillemann,U.S. House Colorado District 6,Representative,0.0,"('U.S. House Colorado District 6', 'Representative')",2,6064348.69,0.058011497686489395
+609,"TIPIRNENI, HIRAL",H8AZ08083,DEM,AZ,4579945.1,Hiral Tipirneni,U.S. House Arizona District 8,Representative,1.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.6024644413825058
+610,"TLAIB, RASHIDA",H8MI13250,DEM,MI,1666003.3,Rashida Tlaib,U.S. House Michigan District 13,Representative,1.0,"('U.S. House Michigan District 13', 'Representative')",7,4298396.4399999995,0.3875871672739428
+611,"TLAIB, RASHIDA",H8MI13250,DEM,MI,1666003.3,Rashida Tlaib,U.S. House Michigan District 13,Representative,0.0,"('U.S. House Michigan District 13', 'Representative')",7,4298396.4399999995,0.3875871672739428
+612,"TOFT, STEVE",H8WI03103,REP,WI,305021.76,Steve Toft,U.S. House Wisconsin District 3,Representative,1.0,"('U.S. House Wisconsin District 3', 'Representative')",1,305021.76,1.0
+613,"TORRES SMALL, XOCHITL",H8NM02248,DEM,NM,4810435.04,Xochitl Torres Small,U.S. House New Mexico District 2,Representative,1.0,"('U.S. House New Mexico District 2', 'Representative')",4,5891239.15,0.8165404454850556
+615,"TRITCH, COURTNEY",H8IN03076,DEM,IN,859851.8,Courtney Tritch,U.S. House Indiana District 3,Representative,1.0,"('U.S. House Indiana District 3', 'Representative')",1,859851.8,1.0
+616,"TURK, JACOB",H6MO05189,REP,MO,102642.92,Jacob Turk,U.S. House Missouri District 5,Representative,1.0,"('U.S. House Missouri District 5', 'Representative')",2,102642.92,1.0
+617,"TYSON, CARYN",H8KS02157,REP,KS,629705.01,Caryn Tyson,U.S. House Kansas District 2,Representative,0.0,"('U.S. House Kansas District 2', 'Representative')",4,2172365.42,0.2898706654978885
+618,"UEHLINGER, SCOTT",H8PA15237,REP,PA,118199.0,Scott Uehlinger,U.S. House Pennsylvania District 9,Representative,0.0,"('U.S. House Pennsylvania District 9', 'Representative')",4,1852313.19,0.06381156309749109
+619,"VAETH , BRIAN",S2MD00487,REP,MD,0.0,Brian Vaeth,U.S. Senate Maryland,Senator,0.0,"('U.S. Senate Maryland', 'Senator')",6,41556.17,0.0
+620,"VALENCIA, PEDRO",H8TX29060,DEM,TX,5598.35,Pedro Valencia,U.S. House Texas District 29,Representative,0.0,"('U.S. House Texas District 29', 'Representative')",4,64005.75,0.08746636044417885
+621,"VALIENTE, CHRISTIAN",H8CA35115,REP,CA,7315.85,Christian Valiente,U.S. House California District 35,Representative,1.0,"('U.S. House California District 35', 'Representative')",1,7315.85,1.0
+622,"VAN DREW, JEFF",H8NJ02166,DEM,NJ,1897308.6,Jeff Van Drew,U.S. House New Jersey District 2,Representative,1.0,"('U.S. House New Jersey District 2', 'Representative')",5,2492102.02,0.7613286232960881
+623,"VAN PELT, TONY",H8IN07291,REP,IN,7145.65,Tony Van Pelt,U.S. House Indiana District 7,Representative,0.0,"('U.S. House Indiana District 7', 'Representative')",2,7145.65,1.0
+624,"VANDERMAAS, JAMES",H8ID01165,DEM,ID,19204.87,James Vandermaas,U.S. House Idaho District 1,Representative,0.0,"('U.S. House Idaho District 1', 'Representative')",4,1111129.81,0.01728409212601361
+626,"VELTMEYER, JAMES",H8CA52110,REP,CA,250657.35,James Veltmeyer,U.S. House California District 52,Representative,0.0,"('U.S. House California District 52', 'Representative')",3,1041020.89,0.2407803267041068
+627,"VERBEEK, JOHN",H8OR01262,REP,OR,0.0,John Verbeek,U.S. House Oregon District 1,Representative,1.0,"('U.S. House Oregon District 1', 'Representative')",2,917.0,0.0
+628,"VERCOLIO-OSMUND, BETH",H8IL16161,DEM,IL,13098.0,Beth Vercolio-Osmund,U.S. House Illinois District 16,Representative,0.0,"('U.S. House Illinois District 16', 'Representative')",2,395548.38,0.03311352204248694
+629,"VILELA, AMY",H8NV04018,DEM,NV,198206.51,Amy Vilela,U.S. House Nevada District 4,Representative,0.0,"('U.S. House Nevada District 4', 'Representative')",6,1314661.66,0.15076617507808057
+630,"VILLESCAZ, ANGELA",H8TX23162,DEM,TX,2535.0,Angela Villescaz,U.S. House Texas District 23,Representative,0.0,"('U.S. House Texas District 23', 'Representative')",3,6815741.25,0.00037193313346512385
+632,"VOLOSIN, PETER",H8VA06070,DEM,VA,78262.91,Peter Volosin,U.S. House Virginia District 6,Representative,0.0,"('U.S. House Virginia District 6', 'Representative')",1,78262.91,1.0
+633,"VROMAN, ROBERT",H8MO01184,REP,MO,100.0,Robert Vroman,U.S. House Missouri District 1,Representative,1.0,"('U.S. House Missouri District 1', 'Representative')",3,100.0,1.0
+634,"VUKMIR, LEAH",S8WI00224,REP,WI,5852699.03,Leah Vukmir,U.S. Senate Wisconsin,Senator,1.0,"('U.S. Senate Wisconsin', 'Senator')",2,9746449.030000001,0.6004955252918405
+635,"WALKER, PAUL",H8KY01074,DEM,KY,51853.84,Paul Walker,U.S. House Kentucky District 1,Representative,1.0,"('U.S. House Kentucky District 1', 'Representative')",2,51853.84,1.0
+636,"WALKER, RICK",H8TX02125,REP,TX,602161.61,Rick Walker,U.S. House Texas District 2,Representative,0.0,"('U.S. House Texas District 2', 'Representative')",7,3785546.39,0.15906861202142075
+639,"WALTZ, MICHAEL",H8FL06148,REP,FL,2197940.02,Michael Waltz,U.S. House Florida District 6,Representative,1.0,"('U.S. House Florida District 6', 'Representative')",3,3428782.15,0.641026441414483
+640,"WALZ, JIM",H6IL14129,DEM,IL,15711.48,Jim Walz,U.S. House Illinois District 14,Representative,0.0,"('U.S. House Illinois District 14', 'Representative')",6,279346.48,0.05624370137042715
+641,"WARD, JOHN",H8FL06122,REP,FL,1230842.13,John Ward,U.S. House Florida District 6,Representative,0.0,"('U.S. House Florida District 6', 'Representative')",3,3428782.15,0.358973558585517
+642,"WARD, JOHN",H8SC07022,REP,SC,0.0,John Ward,U.S. House Florida District 6,Representative,0.0,"('U.S. House Florida District 6', 'Representative')",3,3428782.15,0.0
+643,"WARD, KELLI",S6AZ00233,REP,AZ,3373275.28,Kelli Ward,U.S. Senate Arizona,Senator,0.0,"('U.S. Senate Arizona', 'Senator')",2,4829192.9,0.6985174023593052
+644,"WARDLAW, PEGGY",H8TX21349,REP,TX,17095.0,Peggy Wardlaw,U.S. House Texas District 21,Representative,0.0,"('U.S. House Texas District 21', 'Representative')",11,5902529.11,0.0028962161272593876
+645,"WATKINS, STEVE",H8KS02199,REP,KS,1257752.91,Steve Watkins,U.S. House Kansas District 2,Representative,1.0,"('U.S. House Kansas District 2', 'Representative')",4,2172365.42,0.5789785173435508
+646,"WATSON, LIZ",H8IN09107,DEM,IN,2534627.98,Liz Watson,U.S. House Indiana District 9,Representative,1.0,"('U.S. House Indiana District 9', 'Representative')",1,2534627.98,1.0
+647,"WATTS, RYAN",H8NC06079,DEM,NC,340125.01,Ryan Watts,U.S. House North Carolina District 6,Representative,1.0,"('U.S. House North Carolina District 6', 'Representative')",2,340125.01,1.0
+648,"WEBBER, JAY",H8NJ11217,REP,NJ,1669131.56,Jay Webber,U.S. House New Jersey District 11,Representative,1.0,"('U.S. House New Jersey District 11', 'Representative')",6,2942044.29,0.5673373326409032
+649,"WEBER, GEORGE",H8IL14158,DEM,IL,17255.0,George Weber,U.S. House Illinois District 14,Representative,0.0,"('U.S. House Illinois District 14', 'Representative')",6,279346.48,0.06176916924100852
+650,"WEGMAN, GARY",H6PA16338,DEM,PA,89271.53,Gary Wegman,U.S. House Pennsylvania District 9,Representative,0.0,"('U.S. House Pennsylvania District 9', 'Representative')",4,1852313.19,0.04819461983100169
+651,"WEISS, MICHAEL",H8NV03168,DEM,NV,10070.75,Michael Weiss,U.S. House Nevada District 3,Representative,0.0,"('U.S. House Nevada District 3', 'Representative')",10,5667748.680000001,0.0017768518980979232
+652,"WELDER, BRENT",H8KS03122,DEM,KS,996963.1,Brent Welder,U.S. House Kansas District 3,Representative,0.0,"('U.S. House Kansas District 3', 'Representative')",5,7093256.309999999,0.14055083538916982
+653,"WELLE, JOSH",H8NJ04188,DEM,NJ,1856255.36,Josh Welle,U.S. House New Jersey District 4,Representative,1.0,"('U.S. House New Jersey District 4', 'Representative')",1,1856255.36,1.0
+654,"WESTBROOK, BRIANNA",H8AZ08059,DEM,AZ,42870.67,Brianna Westbrook,U.S. House Arizona District 8,Representative,0.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.005639380754420779
+655,"WESTIN, JASON",H8TX07132,DEM,TX,620911.73,Jason Westin,U.S. House Texas District 7,Representative,0.0,"('U.S. House Texas District 7', 'Representative')",3,2005288.95,0.30963703759500594
+656,"WEXTON, JENNIFER",H8VA10106,DEM,VA,6172951.83,Jennifer Wexton,U.S. House Virginia District 10,Representative,1.0,"('U.S. House Virginia District 10', 'Representative')",3,7870400.1899999995,0.7843250255359633
+657,"WHITE, TIMOTHY",H8OR02146,DEM,OR,10424.0,Timothy White,U.S. House Oregon District 2,Representative,0.0,"('U.S. House Oregon District 2', 'Representative')",5,270054.13,0.03859966888860392
+658,"WILD, SUSAN",H8PA15229,DEM,PA,3320188.01,Susan Wild,U.S. House Pennsylvania District 7,Representative,1.0,"('U.S. House Pennsylvania District 7', 'Representative')",5,4261507.57,0.7791111374231349
+659,"WILKINS, BECKY ANDERSON",H8IL06154,DEM,IL,323740.74,Becky Anderson Wilkins,U.S. House Illinois District 6,Representative,0.0,"('U.S. House Illinois District 6', 'Representative')",6,8244590.320000001,0.03926704996058554
+660,"WILLIAMS, KATHLEEN",H8MT01232,DEM,MT,4160972.28,Kathleen Williams,U.S. House Montana At-large District,Representative,1.0,"('U.S. House Montana At-large District', 'Representative')",5,6107762.06,0.6812597215026415
+661,"WILLIAMS, ROBERT",H8SC07063,DEM,SC,26214.29,Robert Williams,U.S. House South Carolina District 7,Representative,1.0,"('U.S. House South Carolina District 7', 'Representative')",2,79276.07,0.33067090737469707
+662,"WILLIAMS, STEVE",H6MN01182,REP,MN,0.0,Steve Williams,U.S. House Minnesota District 1,Representative,0.0,"('U.S. House Minnesota District 1', 'Representative')",3,106892.27,0.0
+663,"WILLIAMS, STEVE",H8WV03089,DEM,WV,106892.27,Steve Williams,U.S. House Minnesota District 1,Representative,0.0,"('U.S. House Minnesota District 1', 'Representative')",3,106892.27,1.0
+664,"WILLIAMS, SYLVIA",H8KS03163,DEM,KS,317826.27,Sylvia Williams,U.S. House Kansas District 3,Representative,0.0,"('U.S. House Kansas District 3', 'Representative')",5,7093256.309999999,0.04480682159362152
+665,"WILLIAMS, VANGIE",H8VA01303,DEM,VA,506912.95,Vangie Williams,U.S. House Virginia District 1,Representative,1.0,"('U.S. House Virginia District 1', 'Representative')",2,598954.35,0.8463298580267429
+667,"WILSON, JENNY",S8UT00143,DEM,UT,960796.1,Jenny Wilson,U.S. Senate Utah,Senator,1.0,"('U.S. Senate Utah', 'Senator')",2,1713294.92,0.5607885068613873
+668,"WILSON, JOHN",H8OH16199,DEM,OH,0.0,John Wilson,U.S. House Ohio District 16,Representative,0.0,"('U.S. House Ohio District 16', 'Representative')",4,938238.0800000001,0.0
+669,"WILSON, KATIE",H8NY21252,DEM,NY,265858.31,Katie Wilson,U.S. House New York District 21,Representative,0.0,"('U.S. House New York District 21', 'Representative')",3,715162.9299999999,0.37174509310766435
+670,"WILSON, KURTIS",H8CA23111,DEM,CA,12040.87,Kurtis Wilson,U.S. House California District 23,Representative,0.0,"('U.S. House California District 23', 'Representative')",3,155492.97999999998,0.07743674344655303
+671,"WILT, ROBIN",H8NY25113,DEM,NY,76689.84,Robin Wilt,U.S. House New York District 25,Representative,0.0,"('U.S. House New York District 25', 'Representative')",2,111302.89,0.6890193057880168
+672,"WINEINGER, MERRILEE",H8TN06144,DEM,TN,47006.71,Merrilee Wineinger,U.S. House Tennessee District 6,Representative,0.0,"('U.S. House Tennessee District 6', 'Representative')",4,398608.39999999997,0.11792704318323448
+673,"WINFIELD, RICHARD DIEN",H8GA10171,DEM,GA,119100.64,Richard Dien Winfield,U.S. House Georgia District 10,Representative,0.0,"('U.S. House Georgia District 10', 'Representative')",2,143873.79,0.8278133216619927
+675,"WOLFF, DENNY",H8PA11095,DEM,PA,1620536.24,Denny Wolff,U.S. House Pennsylvania District 9,Representative,1.0,"('U.S. House Pennsylvania District 9', 'Representative')",4,1852313.19,0.8748716193075319
+676,"WOLKOWICZ, STEPHAN",H8CA36188,REP,CA,15038.32,Stephan Wolkowicz,U.S. House California District 36,Representative,0.0,"('U.S. House California District 36', 'Representative')",4,878444.34,0.017119263355945807
+677,"WONG, GERALD",H8NC06095,DEM,NC,0.0,Gerald Wong,U.S. House North Carolina District 6,Representative,0.0,"('U.S. House North Carolina District 6', 'Representative')",2,340125.01,0.0
+678,"WOODSMALL, STEVE",H8NC11129,DEM,NC,13478.34,Steve Woodsmall,U.S. House North Carolina District 11,Representative,0.0,"('U.S. House North Carolina District 11', 'Representative')",3,314427.19,0.0428663309938304
+679,"WRIGHT, JASON",H8TX05136,REP,TX,146579.87,Jason Wright,U.S. House Texas District 5,Representative,0.0,"('U.S. House Texas District 5', 'Representative')",4,2286881.9,0.06409595091027656
+680,"WRIGHT, KENNETH",H6CA33106,REP,CA,164786.01,Kenneth Wright,U.S. House California District 33,Representative,1.0,"('U.S. House California District 33', 'Representative')",1,164786.01,1.0
+681,"WRIGHT, PAUL",H6NC12089,REP,NC,0.0,Paul Wright,U.S. House North Carolina District 12,Representative,1.0,"('U.S. House North Carolina District 12', 'Representative')",3,13304.0,0.0
+682,"WRIGHT, THERESA",H8PA07259,DEM,PA,9395.0,Theresa Wright,U.S. House Pennsylvania District 5,Representative,0.0,"('U.S. House Pennsylvania District 5', 'Representative')",8,3880740.18,0.0024209299165191727
+683,"WYNES, JEREMY",H8IL10123,REP,IL,426593.26,Jeremy Wynes,U.S. House Illinois District 10,Representative,0.0,"('U.S. House Illinois District 10', 'Representative')",1,426593.26,1.0
+684,"YATES, MARK",H8AZ08216,REP,AZ,0.0,Mark Yates,U.S. House Arizona District 8,Representative,0.0,"('U.S. House Arizona District 8', 'Representative')",13,7602017.289999999,0.0
+685,"YHAP, MEDRICK",H8TX03115,DEM,TX,8050.0,Medrick Yhap,U.S. House Texas District 3,Representative,0.0,"('U.S. House Texas District 3', 'Representative')",4,61895.74,0.13005741590616737
+686,"YOUNGBLOOD, TANZIE",H8NJ02141,DEM,NJ,114751.62,Tanzie Youngblood,U.S. House New Jersey District 2,Representative,0.0,"('U.S. House New Jersey District 2', 'Representative')",5,2492102.02,0.04604611652295037
+687,"YU, PETER",H8CO02251,REP,CO,67708.0,Peter Yu,U.S. House Colorado District 2,Representative,1.0,"('U.S. House Colorado District 2', 'Representative')",1,67708.0,1.0
+688,"ZARKADES, TONY",H8CA48050,DEM,CA,2200.0,Tony Zarkades,U.S. House California District 48,Representative,0.0,"('U.S. House California District 48', 'Representative')",5,3344733.0700000003,0.0006577505450980576
+689,"ZUPAN, LAWRENCE",S8VT00141,REP,VT,168278.39,Lawrence Zupan,U.S. Senate Vermont,Senator,0.0,"('U.S. Senate Vermont', 'Senator')",2,168278.39,1.0
+690,"ZWAHLEN, SUE",H8CA10183,DEM,CA,840266.61,Sue Zwahlen,U.S. House California District 10,Representative,0.0,"('U.S. House California District 10', 'Representative')",3,9637249.959999999,0.08718945897300355
