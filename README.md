@@ -1,1 +1,1 @@
-# election-prediction
+# Predictive Analytics for US Elections
